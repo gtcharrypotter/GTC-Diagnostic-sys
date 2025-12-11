@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+	@apply h-full w-full;
+}
+
+.Toastify__toast {
+	z-index: 9999;
+}
+.Toastify__toast--success {
+	@apply bg-[#d6eade] text-success;
+}
+
+.Toastify__toast--danger,
+.Toastify__toast--error {
+	@apply bg-[#f0d6d6] text-danger;
+}
+.Toastify__toast--warning {
+	@apply bg-[#f5eadd] text-warning;
+}
+.Toastify__toast--info,
+.Toastify__toast--information {
+	@apply bg-[#deeef5] text-info;
+}
+
+.Toastify__toast-body {
+	font-family: "Inter", sans-serif;
+	@apply font-semibold tracking-wide text-sm;
+}
+
+.rbc-day-slot .rbc-event {
+	@apply !flex-col;
+}
+
+.rbc-event-label {
+	@apply !text-[10px] font-bold;
+}
+.rbc-event-content {
+	@apply !text-xs;
+}

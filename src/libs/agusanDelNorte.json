@@ -1,0 +1,6128 @@
+{
+    "type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "1",
+			"properties": {
+				"name": "Abilan",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9695,
+        		"lng": 125.4655,
+				"subdivisions": [
+					{
+						"name": "Abilan",
+						"lat": 8.9695,
+        				"lng": 125.4655,
+						"streets": [
+							{
+								"name": "Dumorog Street",
+								"lat": 8.982514841736105,
+								"lng": 125.44457568577282,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "2",
+			"properties": {
+				"name": "Agong\u002dong",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9634,
+        		"lng": 125.3898,
+				"subdivisions": [
+					{
+						"name": null,
+						"lat": null,
+						"lng": null,
+						"streets": [
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "3",
+			"properties": {
+				"name": "Alubijid",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9526,
+        		"lng": 125.4568,
+				"subdivisions": [
+					{
+						"name": null,
+						"lat": null,
+						"lng": null,
+						"streets": [
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "4",
+			"properties": {
+				"name": "Guinabsan",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9051,
+        		"lng": 125.4040
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "5",
+			"properties": {
+				"name": "Lower Olave",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.8259,
+        		"lng": 125.4463
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "6",
+			"properties": {
+				"name": "Macalang",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9498,
+        		"lng": 125.3807
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "7",
+			"properties": {
+				"name": "Malapong",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9408,
+        		"lng": 125.4223
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "8",
+			"properties": {
+				"name": "Malpoc",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9485,
+        		"lng": 125.3994
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "9",
+			"properties": {
+				"name": "Manapa",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9779,
+        		"lng": 125.4427,
+				"subdivisions": [
+					{
+						"name": "Kilometer 12",
+						"lat": 8.96161055254622,
+						"lng": 125.44127963484263,
+						"streets": [
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "Suwa",
+						"lat": 8.96952007359264,
+						"lng": 125.43829595652787,
+						"streets": [
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "Manapa",
+						"lat": 8.9779,
+        				"lng": 125.4427,
+						"streets": [
+							{
+								"name": "Dumorog Street",
+								"lat": 8.977259016222423,
+								"lng": 125.4424087809635,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "10",
+			"properties": {
+				"name": "Matabao",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9683,
+        		"lng": 125.4207
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "11",
+			"properties": {
+				"name": "Poblacion 1",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9675,
+        		"lng": 125.4099
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "12",
+			"properties": {
+				"name": "Poblacion 2",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9672,
+        		"lng": 125.4046
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "13",
+			"properties": {
+				"name": "Poblacion 3",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9729,
+        		"lng": 125.4122,
+				"subdivisions": [
+					{
+						"name": "N/A",
+						"lat": null,
+						"lng": null,
+						"purok": "Purok 1",
+						"streets": [
+							{
+								"name": "Datchile Street",
+								"lat": 8.970094670285084,
+								"lng": 125.41005493682658,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "14",
+			"properties": {
+				"name": "Poblacion 4",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9734,
+        		"lng": 125.4059,
+				"subdivisions": [
+					{
+						"name": "N/A",
+						"lat": null,
+						"lng": null,
+						"purok": "Purok 4",
+						"streets": [
+							{
+								"name": "Leon Kilat Street",
+								"lat": 8.968057642336493,
+								"lng": 125.40215592814808,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "15",
+			"properties": {
+				"name": "Poblacion 5",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9761,
+        		"lng": 125.4060
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "16",
+			"properties": {
+				"name": "Poblacion 6",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9776,
+        		"lng": 125.4089,
+				"subdivsions": [
+					{
+						"name": "N/A",
+						"lat": null,
+						"lng": null,
+						"purok": "Purok 1",
+						"streets": [
+							{
+								"name": "Marang Street",
+								"lat": 8.977349701963306,
+								"lng": 125.40895333680075,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "17",
+			"properties": {
+				"name": "Poblacion 7",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9790,
+        		"lng": 125.4073
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "18",
+			"properties": {
+				"name": "Poblacion 8",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9783,
+        		"lng": 125.4112,
+				"subdivisions": [
+					{
+						"name": "N/A",
+						"lat": null,
+						"lng": null,
+						"purok": "Purok 3",
+						"streets": [
+							{
+								"name": "Paler's Street",
+								"lat": 8.979016471856614,
+								"lng": 125.41070412843796,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "19",
+			"properties": {
+				"name": "Poblacion 9",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9809,
+        		"lng": 125.4072
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "20",
+			"properties": {
+				"name": "Poblacion 10",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9788,
+        		"lng": 125.4128
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "21",
+			"properties": {
+				"name": "Rizal",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9302,
+        		"lng": 125.3988
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "22",
+			"properties": {
+				"name": "Sacol",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9807,
+        		"lng": 125.3992
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "23",
+			"properties": {
+				"name": "Sangay",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.8496,
+        		"lng": 125.4436
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "24",
+			"properties": {
+				"name": "Simbalan",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.7982,
+        		"lng": 125.4138
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "25",
+			"properties": {
+				"name": "Talo\u002dao",
+				"city": "Buenavista",
+				"citypopulation": "Buenavista City, Agusan del Norte Population",
+				"lat": 8.9490,
+        		"lng": 125.4261
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "26",
+			"properties": {
+				"name": "Agao Pob. (Bgy. 3)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9438,
+        		"lng": 125.5447,
+				"subdivisions": [
+					{
+						"name": "N/A Not found subdivision name yet",
+						"lat": null,
+						"lng": null,
+						"purok": "Purok 1",
+						"streets": [
+							{
+								"name": "T. Sanchez Street",
+								"lat": 8.944740879761405,
+								"lng": 125.54272211883739,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Lagnada Street",
+								"lat": 8.945279685183841,
+								"lng": 125.54436481530837,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Silongan Street",
+								"lat": 8.944261940938599,
+								"lng": 125.54476671774593,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "M.V. Tupaz Street",
+								"lat": 8.945074876199104,
+								"lng": 125.54480818387043,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "27",
+			"properties": {
+				"name": "Agusan Pequeño",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9738,
+        		"lng": 125.5252
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "28",
+			"properties": {
+				"name": "Ambago",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9607,
+        		"lng": 125.5069,
+				"subdivisions": [
+					{
+						"name": "Sherwood Subdivision",
+						"lat": 8.964489370241811,
+						"lng": 125.50955659605097,
+						"purok": 5,
+						"streets": [
+							{
+								"name": "11th Street",
+								"lat": 8.964609175212999,
+								"lng": 125.50901315266958,
+								"house_number": [
+									{
+										"name": "Block 3 Lot 2",
+										"lat": 8.96465707525253,
+										"lng": 125.50885414275133
+									}
+								]
+							},
+							{
+								"name": "null",
+								"lat": 8.964376105276516,
+								"lng": 125.5085509893441,
+								"house_number": [
+									{
+										"name": "Block 6 Lot 24-A",
+										"lat": 8.964333052139912,
+										"lng": 125.50845729443316
+									}
+								]
+							},
+							{
+								"name": "16th",
+								"lat": 8.964102325745019,
+								"lng": 125.51034127847399,
+								"house_number": [
+									{
+										"name": "Block 7 Lot 39",
+										"lat": 8.96420420650004,
+										"lng": 125.51041619243357
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "No Subdivision name yet",
+						"lat": 8.0,
+						"lng": 125.0,
+						"streets": [
+							{
+								"name": "Masao Road",
+								"lat": 8.966720420482137,
+								"lng": 125.50511063139072,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "Emenville Subdivision",
+						"lat": 8.963841795300281,
+						"lng": 125.50224999327752,
+						"streets": [
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "Fortuneville Subdivision",
+						"lat": 8.962780925196414,
+						"lng": 125.51092846011828,
+						"streets": [
+							{
+								"name": "Ambago - Masao Road",
+								"lat": 8.962602423589972,
+								"lng": 125.51117661535123,
+								"house_number": [
+									{
+										"name": "Block 4 Lot 5",
+										"lat": 8.962669575820465,
+										"lng": 125.51105939453122
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "Glenn Ivy Homes",
+						"lat": 8.95903890484542,
+						"lng": 125.50896455263836,
+						"purok": 6,
+						"streets": [
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": "Block 8 Lot 10",
+										"lat": 8.958907630360157,
+										"lng": 125.50893152851401
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "N/A",
+						"lat": null,
+						"lng": null,
+						"streets": [
+							{
+								"name": "Salvador Calo Street",
+								"lat": 8.960727034324078,
+								"lng": 125.5071484875308,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "Lucky Village",
+						"lat": 8.961209820394005,
+						"lng": 125.51349984841931,
+						"purok": 8,
+						"streets": [
+							{
+								"name": "Salvador Calo Street",
+								"lat": 8.960227045608782,
+								"lng": 125.51323677913302,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": null,
+						"lat": null,
+						"lng": null,
+						"streets": [
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "29",
+			"properties": {
+				"name": "Amparo",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8658,
+        		"lng": 125.5567
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "30",
+			"properties": {
+				"name": "Anticala",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 9.0040,
+        		"lng": 125.6472
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "31",
+			"properties": {
+				"name": "Antongalon",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9485,
+        		"lng": 125.6217
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "32",
+			"properties": {
+				"name": "Aupagan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8851,
+        		"lng": 125.5655
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "33",
+			"properties": {
+				"name": "Baan KM 3",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9490,
+        		"lng": 125.5786
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "34",
+			"properties": {
+				"name": "Baan Riverside Pob. (Bgy. 20)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9521,
+        		"lng": 125.5485
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "35",
+			"properties": {
+				"name": "Babag",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9787,
+        		"lng": 125.5149
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "36",
+			"properties": {
+				"name": "Bading Pob. (Bgy. 22)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9693,
+        		"lng": 125.5353
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "37",
+			"properties": {
+				"name": "Bancasi",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9464,
+        		"lng": 125.4794
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "38",
+			"properties": {
+				"name": "Banza",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9793,
+        		"lng": 125.5451
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "39",
+			"properties": {
+				"name": "Baobaoan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 9.0185,
+        		"lng": 125.5839
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "40",
+			"properties": {
+				"name": "Basag",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9330,
+        		"lng": 125.6162
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "41",
+			"properties": {
+				"name": "Bayanihan Pob. (Bgy. 27)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9400,
+        		"lng": 125.5241
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "42",
+			"properties": {
+				"name": "Bilay",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8489,
+        		"lng": 125.5771
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "43",
+			"properties": {
+				"name": "Bitan\u002dagan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8483,
+        		"lng": 125.5276
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "45",
+			"properties": {
+				"name": "Bit\u002dos",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8907,
+        		"lng": 125.5438
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "46",
+			"properties": {
+				"name": "Bobon",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9892,
+        		"lng": 125.5609
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "47",
+			"properties": {
+				"name": "Bonbon",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9297,
+        		"lng": 125.5083
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "48",
+			"properties": {
+				"name": "Bugabus",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8091,
+        		"lng": 125.5639
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "49",
+			"properties": {
+				"name": "Bugsukan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9320,
+        		"lng": 125.6598
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "50",
+			"properties": {
+				"name": "Buhangin Pob. (Bgy. 19)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9450,
+        		"lng": 125.5490
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "51",
+			"properties": {
+				"name": "Cabcabon",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9899,
+        		"lng": 125.5798
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "52",
+			"properties": {
+				"name": "Camayahan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9121,
+        		"lng": 125.6058
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "53",
+			"properties": {
+				"name": "Dagohoy Pob. (Bgy. 7)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9121,
+        		"lng": 125.6058
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "54",
+			"properties": {
+				"name": "Dankias",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.7587,
+        		"lng": 125.5812
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "55",
+			"properties": {
+				"name": "De Oro",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9167,
+        		"lng": 125.6435
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "56",
+			"properties": {
+				"name": "Diego Silang Pob. (Bgy. 6)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9454,
+        		"lng": 125.5417
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "57",
+			"properties": {
+				"name": "Don Francisco",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8599,
+        		"lng": 125.5892
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "58",
+			"properties": {
+				"name": "Doongan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9593,
+        		"lng": 125.5237
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "59",
+			"properties": {
+				"name": "Dulag",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8255,
+        		"lng": 125.5343
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "60",
+			"properties": {
+				"name": "Dumalagan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9282,
+        		"lng": 125.4690
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "61",
+			"properties": {
+				"name": "Florida",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.7830,
+        		"lng": 125.5883
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "62",
+			"properties": {
+				"name": "Golden Ribbon Pob. (Bgy. 2)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9395,
+        		"lng": 125.5418,
+				"subdivisions": [
+					{
+						"name": "Purok Gay",
+						"lat": 8.942802492595215,
+						"lng": 125.54170891640682,
+						"streets": [
+							{
+								"name": "Golden Ribbon Street",
+								"lat": 8.942609071445832,
+								"lng": 125.5415479838664,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "F. Durano Street",
+								"lat": 8.943345661026333,
+								"lng": 125.54218903180774,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "63",
+			"properties": {
+				"name": "Holy Redeemer Pob. (Bgy. 23)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9566,
+        		"lng": 125.5313
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "64",
+			"properties": {
+				"name": "Humabon Pob. (Bgy. 11)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9498,
+        		"lng": 125.5430
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "65",
+			"properties": {
+				"name": "Imadejas Pob. (Bgy. 24)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9403,
+        		"lng": 125.5300
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "66",
+			"properties": {
+				"name": "Jose Rizal Pob. (Bgy. 25)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9408,
+        		"lng": 125.5375,
+				"subdivisions": [
+					{
+						"name": "Guingona Subdivision",
+						"lat": 8.941769699197343,
+						"lng": 125.537038897846,
+						"streets": [
+							{
+								"name": "1st Street",
+								"lat": 8.941997565722348,
+								"lng": 125.53708583650031,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "2nd Street",
+								"lat": 8.941627944949959,
+								"lng": 125.53707913097827,
+								"house_number": [
+									{
+										"name": "276",
+										"lat": 8.941409870568886,
+										"lng": 125.53676174580777
+									},
+									{
+										"name": "512",
+										"lat": 8.941537990150398,
+										"lng": 125.5364583624986
+									}
+								]
+							},
+							{
+								"name": "3rd Street",
+								"lat": 8.94122255399399,
+								"lng": 125.53707510766505,
+								"house_number": [
+									{
+										"name": "315",
+										"lat": 8.94096717246027,
+										"lng": 125.53610545568695
+									},
+									{
+										"name": "533",
+										"lat": 8.94099162130163,
+										"lng": 125.53590252215788
+									}
+								]
+							},
+							{
+								"name": "4th Street",
+								"lat": 8.940707203388367,
+								"lng": 125.53675324260236,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "5th Street",
+								"lat": 8.940419719573482,
+								"lng": 125.53712472852874,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "6th Street",
+								"lat": 8.940015652082117,
+								"lng": 125.5369181984188,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Abad Santos",
+								"lat": 8.941237566811685,
+								"lng": 125.53566647699898,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Cancer Street",
+								"lat": 8.940898694788906,
+								"lng": 125.53774502689089,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Capitol Drive",
+								"lat": 8.94227134704176,
+								"lng": 125.53616384424092,
+								"house_number": [
+									{
+										"name": "402",
+										"lat": 8.94250512298351,
+										"lng": 125.53703610937721
+									}
+								]
+							},
+							{
+								"name": "North Drive",
+								"lat": 8.941444236758672,
+								"lng": 125.53759766741821,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "South Drive",
+								"lat": 8.941298927693206,
+								"lng": 125.53760961889876,
+								"house_number": [
+									{
+										"name": "102",
+										"lat": 8.941684196317405,
+										"lng": 125.537835840365
+									}
+								]
+							},
+							{
+								"name": "T. Guingona Sr. Avenue",
+								"lat": 8.943316018620862,
+								"lng": 125.5371488258182,
+								"house_number": [
+									{
+										"name": "401",
+										"lat": 8.942640369909142,
+										"lng":  125.53723733871243
+									}
+								]
+							},
+							{
+								"name": "Tindalo Road",
+								"lat": 8.943559781768553,
+								"lng": 125.53843628611489,
+								"house_number": [
+									{
+										"name": "09-10",
+										"lat": 8.94298746803008,
+										"lng": 125.53826730695319
+									}
+								]
+							},
+							{
+								"name": "Tindalo Street",
+								"lat": 8.942653617937651,
+								"lng": 125.5385677143686,
+								"house_number": [
+									{
+										"name": "143",
+										"lat": 8.942743704501714,
+										"lng": 125.5388761683939
+									}
+								]
+							},
+							{
+								"name": "Z. Pizarro Street",
+								"lat": 8.943668415294557,
+								"lng": 125.53772550073506,
+								"house_number": [
+									{
+										"name": "015",
+										"lat": 8.943403455421334,
+										"lng": 125.53754311052879
+									}
+								]
+							},
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "Pareja Subdivision",
+						"lat": 8.94225686875998,
+						"lng": 125.53772681719524,
+						"streets": [
+							{
+								"name": "1st Street",
+								"lat": 8.942047581867104,
+								"lng": 125.53756001642452,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "Jose P. Rizal Pob.",
+						"lat": 8.942340083087418,
+						"lng": 125.53561365116174,
+						"streets": [
+							{
+								"name": "Abad Santos Street",
+								"lat": 8.942365082291069,
+								"lng": 125.53524953378397,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Balagtas Street",
+								"lat": 8.942740042981837,
+								"lng": 125.5356769538421,
+								"house_number": [
+									{
+										"name": "267",
+										"lat": 8.942806725628023,
+										"lng": 125.53599162110373
+									},
+									{
+										"name": "716",
+										"lat": 8.942827334708571,
+										"lng": 125.53543212169166
+									}
+								]
+							},
+							{
+								"name": "Capitol Drive",
+								"lat": 8.942207535667139,
+								"lng": 125.53597359612124,
+								"house_number": [
+									{
+										"name": "289",
+										"lat": 8.942172440241746,
+										"lng": 125.53568263916341
+									},
+									{
+										"name": "401",
+										"lat": 8.942623491979768,
+										"lng": 125.53686399099118
+									},
+									{
+										"name": "423",
+										"lat": 8.942648178681289,
+										"lng": 125.5369550958527
+									},
+									{
+										"name": null,
+										"lat": null,
+										"lng": null,
+										"unit": [
+											{
+												"name": "Unit GF-A, Building",
+												"lat": 8.942416526127662,
+												"lng": 125.53626829842013
+											}
+										]
+									}
+								]
+							},
+							{
+								"name": "C.T. Montalban Street",
+								"lat": 8.941506820650007,
+								"lng": 125.53128661838797,
+								"house_number": [
+									{
+										"name": "244",
+										"lat": 8.94075789849206,
+										"lng": 125.53158398970162
+									}
+								]
+							},
+							{
+								"name": "Capital-Bonbon Road",
+								"lat": 8.940675760294168,
+								"lng": 125.53133939027114,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Lopez Jaena Street",
+								"lat": 8.942536637965485,
+								"lng": 125.53668220438246,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Mabini Street",
+								"lat": 8.941511995992924,
+								"lng": 125.53502361666389,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Orchid Street",
+								"lat": 8.9434681888062,
+								"lng": 125.53612215482141,
+								"house_number": [
+									{
+										"name": "701A",
+										"lat": 8.94276052764424,
+										"lng": 125.53667461795
+									},
+									{
+										"name": "737",
+										"lat": 8.943396665833331,
+										"lng": 125.53601391612892
+									}
+								]
+							},
+							{
+								"name": "R. Palma Street",
+								"lat": 8.944438686194859,
+								"lng": 125.53581869752338,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Rosal Street",
+								"lat": 8.943917840427615,
+								"lng": 125.53573903998266,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Villa Kananga Road",
+								"lat": 8.940921851457077,
+								"lng": 125.53474622037261,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "67",
+			"properties": {
+				"name": "Kinamlutan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9170,
+        		"lng": 125.5220
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "68",
+			"properties": {
+				"name": "Lapu\u002dlapu Pob. (Bgy. 8)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9467,
+        		"lng": 125.5366
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "69",
+			"properties": {
+				"name": "Lemon",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9385,
+        		"lng": 125.5910
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "70",
+			"properties": {
+				"name": "Leon Kilat Pob. (Bgy. 13)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9508,
+        		"lng": 125.5431
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "71",
+			"properties": {
+				"name": "Libertad",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9442,
+        		"lng": 125.5037
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "72",
+			"properties": {
+				"name": "Limaha Pob. (Bgy. 14)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9536,
+        		"lng": 125.5337
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "73",
+			"properties": {
+				"name": "Los Angeles",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 9.0139,
+        		"lng": 125.6064
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "74",
+			"properties": {
+				"name": "Lumbocan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 9.0092,
+        		"lng": 125.5034
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "75",
+			"properties": {
+				"name": "Maguinda",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8193,
+        		"lng": 125.5900
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "76",
+			"properties": {
+				"name": "Mahay",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9326,
+        		"lng": 125.5596
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "77",
+			"properties": {
+				"name": "Mahogany Pob. (Bgy. 21)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9596,
+        		"lng": 125.5503
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "78",
+			"properties": {
+				"name": "Maibu",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8372,
+        		"lng": 125.6072
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "79",
+			"properties": {
+				"name": "Mandamo",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.7599,
+        		"lng": 125.6022
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "80",
+			"properties": {
+				"name": "Manila de Bugabus",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8048,
+        		"lng": 125.5251
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "81",
+			"properties": {
+				"name": "Maon Pob. (Bgy. 1)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9335,
+        		"lng": 125.5458,
+				"subdivisions": [
+					{
+						"name": "Golden Ribbon",
+						"lat": 8.939125255199938,
+						"lng": 125.54143012482578,
+						"streets": [
+							{
+								"name": "Golden Ribbon Street - Maon Street",
+								"lat": 8.939407411528714,
+								"lng": 125.5418109172563,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Montilla Boulevard",
+								"lat": 8.939090473115314,
+								"lng": 125.53965560593758,
+								"house_number": [
+									{
+										"name": "609",
+										"lat": 8.939139216612984,
+										"lng": 125.54142481779022
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "82",
+			"properties": {
+				"name": "Masao",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9970,
+        		"lng": 125.4869
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "83",
+			"properties": {
+				"name": "Maug",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9809,
+        		"lng": 125.5361
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "84",
+			"properties": {
+				"name": "New Society Village Pob. (Bgy. 26)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9465,
+        		"lng": 125.5399
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "85",
+			"properties": {
+				"name": "Nong\u002dnong",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8631,
+        		"lng": 125.4887
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "86",
+			"properties": {
+				"name": "Obrero Pob. (Bgy. 18)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9637,
+        		"lng": 125.5376,
+				"subdivisions": [
+					{
+						"name": "Obrero",
+						"lat": 8.963381276718282,
+						"lng": 125.53819937975871,
+						"streets": [
+							{
+								"name": "1st Street",
+								"lat": 8.96413840642114,
+								"lng": 125.53673897623878,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "Murphie",
+						"lat": 8.96301703209504,
+						"lng": 125.53479865181666,
+						"streets": [
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "City Slaughter Compound",
+						"lat": 8.961999231079428,
+						"lng": 125.5333208589803,
+						"streets": [
+							{
+								"name": "Magsaysay Street",
+								"lat": 8.961912585122146,
+								"lng": 125.53326025464449,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": null,
+						"lat": null,
+						"lng": null,
+						"streets": [
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "87",
+			"properties": {
+				"name": "Ong Yiu Pob. (Bgy. 16)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9551,
+        		"lng": 125.5417
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "88",
+			"properties": {
+				"name": "Pagatpatan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9856,
+        		"lng": 125.5242
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "89",
+			"properties": {
+				"name": "Pangabugan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9280,
+        		"lng": 125.5501,
+				"subdivisions": [
+					{
+						"name": "Guigona Subdivision",
+						"lat": 8.938749889169767,
+						"lng": 125.538049126354,
+						"streets": [
+							{
+								"name": "Bougainvillea Street",
+								"lat": 8.93522112928423,
+								"lng": 125.5373769066976,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Villa Kanaga Road",
+								"lat": 8.934697528007918,
+								"lng": 125.53601235349855,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "7th Street",
+								"lat": 8.939446885468612,
+								"lng": 125.53850282785251,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "8th Street",
+								"lat": 8.939094654087784,
+								"lng": 125.5374559001877,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "9th Street",
+								"lat": 8.938628134340993,
+								"lng": 125.53800401992527,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "90",
+			"properties": {
+				"name": "Pianing",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9870,
+        		"lng": 125.6413
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "91",
+			"properties": {
+				"name": "Pigdaulan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9173,
+        		"lng": 125.5847
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "92",
+			"properties": {
+				"name": "Pinamanculan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9641,
+        		"lng": 125.4844
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "93",
+			"properties": {
+				"name": "Port Poyohon Pob. (Bgy. 17 - New Asia)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9598,
+        		"lng": 125.5389,
+				"subdivisions": [
+					{
+						"name": "Obrero",
+						"lat": 8.963401496768078,
+						"lng": 125.53816551175134,
+						"streets": [
+							{
+								"name": "Mayor Democrito D. Plaza II Avenue",
+								"lat": 8.963500587840587,
+								"lng": 125.54020503276925,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Montilla Boulevard",
+								"lat": 8.961740841424366,
+								"lng": 125.53812899882773,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "R. Calo Street",
+								"lat": 8.96386036088862,
+								"lng": 125.54038797205185,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Salvador Calo Street",
+								"lat": 8.962121698320427,
+								"lng": 125.537575914343,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "Port Poyohon Pob. (Bgy. 17 - New Asia)",
+						"city": "Butuan",
+						"citypopulation": "Butuan City, Agusan del Norte Population",
+						"lat": 8.9598,
+						"lng": 125.5389,
+						"streets": [
+							{
+								"name": "Andaya Street",
+								"lat": 8.959875612499214,
+								"lng": 125.53650894476,
+								"house_number": [
+									{
+										"name": "511",
+										"lat": 8.960557980340287,
+										"lng": 125.53684524838786
+									},
+									{
+										"name": "513",
+										"lat": 8.960470547663531,
+										"lng": 125.53694381956423
+									},
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Magsaysay Street",
+								"lat": 8.959536478934742,
+								"lng": 125.53428807570988,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Salvador Calo Street",
+								"lat": 8.960655236845994,
+								"lng": 125.53485800859553,
+								"house_number": [
+									{
+										"name": "168",
+										"lat": 8.960931531918249,
+										"lng": 125.5349992221273
+									},
+									{
+										"name": "163",
+										"lat": 8.960882200095721,
+										"lng": 125.53559217608269
+									},
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"name": "Andaya Subdivision",
+						"lat": 8.959926219042792,
+						"lng": 125.53759158073098,
+						"streets": [
+							{
+								"name": "Andaya Street",
+								"lat": 8.960188001625907,
+								"lng": 125.53733671376983,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "94",
+			"properties": {
+				"name": "Rajah Soliman Pob. (Bgy. 4)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9452,
+        		"lng": 125.5448,
+				"subdivisions": [
+					{
+						"name": "Rajah Soliman Pob. (Bgy. 4)",
+						"lat": 8.9452,
+        				"lng": 125.5448,
+						"streets": [
+							{
+								"name": "Mabini Street",
+								"lat": 8.946257373321727,
+								"lng": 125.54555821399393,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Del Pilar Street",
+								"lat": 8.946628529534967,
+								"lng": 125.54457157934635,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Silongan Street",
+								"lat": 8.946250964727573,
+								"lng": 125.54485321127889,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Gomez Street",
+								"lat": 8.945958310062009,
+								"lng": 125.54443265893198,
+								"house_number": [
+									{
+										"name": "Dy Building",
+										"lat": 8.946048648141486,
+										"lng": 125.54389997298934
+									},
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "M. Calo Street",
+								"lat": 8.946449588856922,
+								"lng": 125.5442217734376,
+								"house_number": [
+									{
+										"name": "367",
+										"lat": 8.946126810756164,
+										"lng": 125.54409175092432
+									},
+									{
+										"name": "318",
+										"lat": 8.946593136521166,
+										"lng": 125.54428755218287
+									},
+									{
+										"name": "370",
+										"lat": 8.946363285688971,
+										"lng": 125.54426609451191
+									}
+								]
+							},
+							{
+								"name": "A.D. Curato Street",
+								"lat": 8.946619366210369,
+								"lng": 125.54348773224521,
+								"house_number": [
+									{
+										"name": "BCR Building",
+										"lat": 8.945861832988223,
+										"lng": 125.54318668706274,
+										"unit": [
+											{
+												"name": "2nd Floor BCR Building",
+												"lat": 8.94584262351655,
+												"lng": 125.54318735762398
+											}
+										]
+									},
+									{
+										"name": "Rudy Tiu Building",
+										"lat": 8.944843329941168,
+										"lng": 125.54343620754447
+									},
+									{
+										"name": "Mar Building",
+										"lat": 8.945649553453421,
+										"lng":  125.54345736255478,
+										"unit": [
+											{
+												"name": "2nd Floor",
+												"lat": 8.945636305536436,
+												"lng": 125.54347680856871
+											}
+										]
+									},
+									{
+										"name": "Balanon Building",
+										"lat": 8.945852231757225,
+										"lng": 125.54346938780841
+									},
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "San Francisco Street",
+								"lat": 8.946305637671111,
+								"lng": 125.54210876568479,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "95",
+			"properties": {
+				"name": "Salvacion",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8798,
+        		"lng": 125.5835
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "96",
+			"properties": {
+				"name": "San Ignacio Pob. (Bgy. 15)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9524,
+        		"lng": 125.5410
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "97",
+			"properties": {
+				"name": "San Mateo",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.7978,
+        		"lng": 125.5716
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "98",
+			"properties": {
+				"name": "San Vicente",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9055,
+        		"lng": 125.5549
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "99",
+			"properties": {
+				"name": "Santo Niño",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 9.0383,
+        		"lng": 125.5947
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "100",
+			"properties": {
+				"name": "Sikatuna Pob. (Bgy. 10)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9483,
+        		"lng": 125.5422
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "101",
+			"properties": {
+				"name": "Silongan  Pob. (Bgy. 5)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9466,
+        		"lng": 125.5449
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "102",
+			"properties": {
+				"name": "Sumile",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8259,
+        		"lng": 125.6261
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "103",
+			"properties": {
+				"name": "Sumilihon",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9905,
+        		"lng": 125.6143
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "104",
+			"properties": {
+				"name": "Tagabaca",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.8991,
+        		"lng": 125.5799
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "105",
+			"properties": {
+				"name": "Taguibo",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9780,
+        		"lng": 125.6249
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "106",
+			"properties": {
+				"name": "Taligaman",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9389,
+        		"lng": 125.6307
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "107",
+			"properties": {
+				"name": "Tandang Sora Pob. (Bgy. 12)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9481,
+        		"lng": 125.5341
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "108",
+			"properties": {
+				"name": "Tiniwisan",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9719,
+        		"lng": 125.5810
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "109",
+			"properties": {
+				"name": "Tungao",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.7787,
+        		"lng": 125.5678
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "110",
+			"properties": {
+				"name": "Urduja Pob. (Bgy. 9)",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9479,
+        		"lng": 125.5450
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "111",
+			"properties": {
+				"name": "Villa Kananga",
+				"city": "Butuan",
+				"citypopulation": "Butuan City, Agusan del Norte Population",
+				"lat": 8.9296,
+        		"lng": 125.5379,
+				"subdivisions": [					
+					{
+						"name": "Franco Village",
+						"lat": 8.933370236868727,
+						"lng": 125.533749499381,
+						"streets": [
+							{
+								"name": "Franco Avenue (Temporary street name)",
+								"lat": 8.933407939138453,
+								"lng": 125.53423268463038,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},			
+					{
+						"name": "Camella Homes",
+						"lat": 8.933395374467153,
+						"lng": 125.53175009893395,
+						"streets": [
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					},			
+					{
+						"name": "Miraville Subdivision",
+						"lat": 8.93383180661364,
+						"lng": 125.53397620347654,
+						"streets": [
+							{
+								"name": "Aquarius Street",
+								"lat": 8.933431441144075,
+								"lng": 125.53262943052151,
+								"house_number": [
+									{
+										"name": "Block 14 Lot 3",
+										"lat": 8.93375451548321,
+										"lng": 125.53247605925283
+									}
+								]
+							},
+							{
+								"name": "Mangoville Street",
+								"lat": 8.934292848789797,
+								"lng": 125.53502226499987,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{
+								"name": "Pisces Street",
+								"lat": 8.933823857608244,
+								"lng": 125.53452337409676,
+								"house_number": [
+									{
+										"name": "Block 6 Lot 8",
+										"lat": 8.933964290058093,
+										"lng": 125.53464139128752
+									}
+								]
+							}
+						]
+					},	
+					{
+						"name": "South Montilla Boulevard",
+						"lat": 8.935640009777702,
+						"lng": 125.53656945206406,
+						"streets": [
+							{
+								"name": "Bougainvillea Street",
+								"lat": 8.935224257990743,
+								"lng": 125.53672029878331,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							},
+							{ 
+								"name": "South Montilla Boulevard",
+								"lat": 8.936741452569935,
+								"lng": 125.53960196764179
+							}
+						]
+					},			
+					{
+						"name": "Saint Joseph Subdivision",
+						"lat": 8.935886917585238,
+						"lng": 125.5365198742819,
+						"streets": [
+							{
+								"name": "Sampaguita Street",
+								"lat": 8.93567538116682,
+								"lng": 125.53637184975113,
+								"house_number": [
+									{
+										"name": 178,
+										"lat": 8.935821112212938,
+										"lng": 125.53636648533336
+									}
+								]
+							}
+						]
+					},			
+					{
+						"name": null,
+						"lat": null,
+						"lng": null,
+						"streets": [
+							{
+								"name": null,
+								"lat": null,
+								"lng": null,
+								"house_number": [
+									{
+										"name": null,
+										"lat": null,
+										"lng": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "112",
+			"properties": {
+				"name": "Antonio Luna",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.0827,
+        		"lng": 125.5911
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "113",
+			"properties": {
+				"name": "Bayabas",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1455,
+        		"lng": 125.5937
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "114",
+			"properties": {
+				"name": "Bay\u002dang",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1041,
+        		"lng": 125.5773
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "115",
+			"properties": {
+				"name": "Caasinan",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1362,
+        		"lng": 125.5236
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "116",
+			"properties": {
+				"name": "Cabinet",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1245,
+        		"lng": 125.5268
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "117",
+			"properties": {
+				"name": "Calamba",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.0985,
+        		"lng": 125.6006
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "118",
+			"properties": {
+				"name": "Calibunan",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1057,
+        		"lng": 125.5338
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "119",
+			"properties": {
+				"name": "Comagascas",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1350,
+        		"lng": 125.5587
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "120",
+			"properties": {
+				"name": "Concepcion",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1807,
+        		"lng": 125.5822
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "121",
+			"properties": {
+				"name": "Del Pilar",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1513,
+        		"lng": 125.5840
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "122",
+			"properties": {
+				"name": "Katugasan",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1313,
+        		"lng": 125.5837
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "123",
+			"properties": {
+				"name": "Kauswagan",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1299,
+        		"lng": 125.5309
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "124",
+			"properties": {
+				"name": "La Union",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.0845,
+        		"lng": 125.5364
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "125",
+			"properties": {
+				"name": "Mabini",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1129,
+        		"lng": 125.5523
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "126",
+			"properties": {
+				"name": "Mahaba",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1036,
+        		"lng": 125.6299
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "127",
+			"properties": {
+				"name": "Poblacion 1",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1232,
+        		"lng": 125.5330
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "128",
+			"properties": {
+				"name": "Poblacion 2",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1252,
+        		"lng": 125.5329
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "129",
+			"properties": {
+				"name": "Poblacion 3",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1233,
+        		"lng": 125.5297
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "130",
+			"properties": {
+				"name": "Poblacion 4",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1194,
+        		"lng": 125.5325
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "131",
+			"properties": {
+				"name": "Poblacion 5",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1189,
+        		"lng": 125.5338
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "132",
+			"properties": {
+				"name": "Poblacion 6",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1247,
+        		"lng": 125.5345
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "133",
+			"properties": {
+				"name": "Poblacion 7",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1250,
+        		"lng": 125.5373
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "134",
+			"properties": {
+				"name": "Poblacion 8",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1229,
+        		"lng": 125.5361
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "135",
+			"properties": {
+				"name": "Poblacion 9",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1227,
+        		"lng": 125.5420
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "136",
+			"properties": {
+				"name": "Poblacion 10",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1206,
+        		"lng": 125.5367
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "137",
+			"properties": {
+				"name": "Poblacion 11",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1182,
+        		"lng": 125.5354
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "138",
+			"properties": {
+				"name": "Poblacion 12",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1178,
+        		"lng": 125.5410
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "139",
+			"properties": {
+				"name": "Puting Bato",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1263,
+        		"lng": 125.6368
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "140",
+			"properties": {
+				"name": "Sanghan",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.0878,
+        		"lng": 125.5709
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "141",
+			"properties": {
+				"name": "Soriano",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.0996,
+        		"lng": 125.5650
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "142",
+			"properties": {
+				"name": "Tolosa",
+				"city": "Cabadbaran",
+				"citypopulation": "Cabadbaran City, Agusan del Norte Population",
+				"lat": 9.1175,
+        		"lng": 125.5255
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "143",
+			"properties": {
+				"name": "Cahayagan",
+				"city": "Carmen",
+				"citypopulation": "Carmen City, Agusan del Norte Population",
+				"lat": 9.0316,
+        		"lng": 125.2364
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "144",
+			"properties": {
+				"name": "Gosoon",
+				"city": "Carmen",
+				"citypopulation": "Carmen City, Agusan del Norte Population",
+				"lat": 9.0664,
+        		"lng": 125.2196
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "145",
+			"properties": {
+				"name": "Manoligao",
+				"city": "Carmen",
+				"citypopulation": "Carmen City, Agusan del Norte Population",
+				"lat": 8.9577,
+        		"lng": 125.2498
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "146",
+			"properties": {
+				"name": "Poblacion (Carmen)",
+				"city": "Carmen",
+				"citypopulation": "Carmen City, Agusan del Norte Population",
+				"lat": 8.9892,
+        		"lng": 125.2918
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "147",
+			"properties": {
+				"name": "Rojales",
+				"city": "Carmen",
+				"citypopulation": "Carmen City, Agusan del Norte Population",
+				"lat": 8.9931,
+        		"lng": 125.2764
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "148",
+			"properties": {
+				"name": "San Agustin",
+				"city": "Carmen",
+				"citypopulation": "Carmen City, Agusan del Norte Population",
+				"lat": 9.0573,
+        		"lng": 125.2250
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "149",
+			"properties": {
+				"name": "Tagcatong",
+				"city": "Carmen",
+				"citypopulation": "Carmen City, Agusan del Norte Population",
+				"lat": 8.9998,
+        		"lng": 125.2651
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "150",
+			"properties": {
+				"name": "Vinapor",
+				"city": "Carmen",
+				"citypopulation": "Carmen City, Agusan del Norte Population",
+				"lat": 9.0829,
+        		"lng": 125.2143
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "151",
+			"properties": {
+				"name": "A. Beltran (Camalig)",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.3750,
+        		"lng": 125.5572
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "152",
+			"properties": {
+				"name": "Baleguian",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.3572,
+        		"lng": 125.5531
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "153",
+			"properties": {
+				"name": "Bangonay",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.3169,
+        		"lng": 125.5548
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "154",
+			"properties": {
+				"name": "Bunga",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.4322,
+        		"lng": 125.4898
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "155",
+			"properties": {
+				"name": "Colorado",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.3184,
+        		"lng": 125.5307
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "156",
+			"properties": {
+				"name": "Cuyago",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.3445,
+        		"lng": 125.5524
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "157",
+			"properties": {
+				"name": "Libas",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.3056,
+        		"lng": 125.5519
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "158",
+			"properties": {
+				"name": "Magdagooc",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.3535,
+        		"lng": 125.4828
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "159",
+			"properties": {
+				"name": "Magsaysay",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.3286,
+        		"lng": 125.5412
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "160",
+			"properties": {
+				"name": "Maraiging",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.3671,
+        		"lng": 125.5723
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "161",
+			"properties": {
+				"name": "Poblacion (Jabonga)",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.3438,
+        		"lng": 125.5162
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "162",
+			"properties": {
+				"name": "San Jose",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.3796,
+        		"lng": 125.4692
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "163",
+			"properties": {
+				"name": "San Pablo",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.3679,
+        		"lng": 125.5107
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "164",
+			"properties": {
+				"name": "San Vicente",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.4062,
+        		"lng": 125.4646
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "165",
+			"properties": {
+				"name": "Santo Niño",
+				"city": "Jabonga",
+				"citypopulation": "Jabonga City, Agusan del Norte Population",
+				"lat": 9.3321,
+        		"lng": 125.4927
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "166",
+			"properties": {
+				"name": "Bangayan",
+				"city": "Kitcharao",
+				"citypopulation": "Kitcharao City, Agusan del Norte Population",
+				"lat": 9.3786,
+        		"lng": 125.5609
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "167",
+			"properties": {
+				"name": "Canaway",
+				"city": "Kitcharao",
+				"citypopulation": "Kitcharao City, Agusan del Norte Population",
+				"lat": 9.4067,
+        		"lng": 125.5559
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "168",
+			"properties": {
+				"name": "Crossing",
+				"city": "Kitcharao",
+				"citypopulation": "Kitcharao City, Agusan del Norte Population",
+				"lat": 9.4506,
+        		"lng": 125.5756
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "169",
+			"properties": {
+				"name": "Hinimbangan",
+				"city": "Kitcharao",
+				"citypopulation": "Kitcharao City, Agusan del Norte Population",
+				"lat": 9.4418,
+        		"lng": 125.6170
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "170",
+			"properties": {
+				"name": "Jaliobong",
+				"city": "Kitcharao",
+				"citypopulation": "Kitcharao City, Agusan del Norte Population",
+				"lat": 9.4001,
+        		"lng": 125.5554
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "171",
+			"properties": {
+				"name": "Mahayahay",
+				"city": "Kitcharao",
+				"citypopulation": "Kitcharao City, Agusan del Norte Population",
+				"lat": 9.4432,
+        		"lng": 125.5879
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "172",
+			"properties": {
+				"name": "Poblacion",
+				"city": "Kitcharao",
+				"citypopulation": "Kitcharao City, Agusan del Norte Population",
+				"lat": 9.4560,
+        		"lng": 125.5764
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "173",
+			"properties": {
+				"name": "San Isidro",
+				"city": "Kitcharao",
+				"citypopulation": "Kitcharao City, Agusan del Norte Population",
+				"lat": 9.4095,
+        		"lng": 125.5702
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "174",
+			"properties": {
+				"name": "San Roque",
+				"city": "Kitcharao",
+				"citypopulation": "Kitcharao City, Agusan del Norte Population",
+				"lat": 9.4227,
+        		"lng": 125.5569
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "175",
+			"properties": {
+				"name": "Sangay",
+				"city": "Kitcharao",
+				"citypopulation": "Kitcharao City, Agusan del Norte Population",
+				"lat": 9.4418,
+        		"lng": 125.5777
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "176",
+			"properties": {
+				"name": "Songkoy",
+				"city": "Kitcharao",
+				"citypopulation": "Kitcharao City, Agusan del Norte Population",
+				"lat": 9.4549,
+        		"lng": 125.5731
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "177",
+			"properties": {
+				"name": "Ambacon",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7113,
+        		"lng": 125.6289
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "178",
+			"properties": {
+				"name": "Balungagan",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7328,
+        		"lng": 125.5417
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "179",
+			"properties": {
+				"name": "Bonifacio",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7641,
+        		"lng": 125.6560
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "180",
+			"properties": {
+				"name": "Casiklan",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7507,
+        		"lng": 125.4091
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "181",
+			"properties": {
+				"name": "Consorcia",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7114,
+        		"lng": 125.5475
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "182",
+			"properties": {
+				"name": "Durian",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7152,
+        		"lng": 125.4940
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "183",
+			"properties": {
+				"name": "Eduardo G. Montilla (Camboayon)",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7051,
+        		"lng": 125.6382
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "184",
+			"properties": {
+				"name": "Ibuan",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7285,
+        		"lng": 125.5180
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "185",
+			"properties": {
+				"name": "Katipunan",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7497,
+        		"lng": 125.6273
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "186",
+			"properties": {
+				"name": "Lingayao",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7460,
+        		"lng": 125.5852
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "187",
+			"properties": {
+				"name": "Malicato",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7365,
+        		"lng": 125.6139
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "188",
+			"properties": {
+				"name": "Maningalao",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7209,
+        		"lng": 125.5737
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "189",
+			"properties": {
+				"name": "Marcos Calo",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7438,
+        		"lng": 125.6695
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "190",
+			"properties": {
+				"name": "Mat\u002di",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7089,
+        		"lng": 125.5906
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "191",
+			"properties": {
+				"name": "Pinana‑an",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7200,
+        		"lng": 125.6013
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "192",
+			"properties": {
+				"name": "Poblacion",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7336,
+        		"lng": 125.6007
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "193",
+			"properties": {
+				"name": "Rosario",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7264,
+        		"lng": 125.6489
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "194",
+			"properties": {
+				"name": "San Isidro",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7286,
+        		"lng": 125.6277
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "195",
+			"properties": {
+				"name": "San Roque",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7046,
+        		"lng": 125.6647
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "195",
+			"properties": {
+				"name": "Tinucoran",
+				"city": "Las Nieves",
+				"citypopulation": "Las Nieves City, Agusan del Norte Population",
+				"lat": 8.7464,
+        		"lng": 125.5996
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "196",
+			"properties": {
+				"name": "Buhang",
+				"city": "Magallanes",
+				"citypopulation": "Magallanes City, Agusan del Norte Population",
+				"lat": 9.0351,
+        		"lng": 125.5254
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "197",
+			"properties": {
+				"name": "Caloc\u002dan",
+				"city": "Magallanes",
+				"citypopulation": "Magallanes City, Agusan del Norte Population",
+				"lat": 9.0486,
+        		"lng": 125.5297
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "198",
+			"properties": {
+				"name": "Guiasan",
+				"city": "Magallanes",
+				"citypopulation": "Magallanes City, Agusan del Norte Population",
+				"lat": 9.0064,
+        		"lng": 125.5444
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "199",
+			"properties": {
+				"name": "Marcos",
+				"city": "Magallanes",
+				"citypopulation": "Magallanes City, Agusan del Norte Population",
+				"lat": 9.0266,
+        		"lng": 125.5172
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "200",
+			"properties": {
+				"name": "Poblacion",
+				"city": "Magallanes",
+				"citypopulation": "Magallanes City, Agusan del Norte Population",
+				"lat": 9.0192,
+        		"lng": 125.5183
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "201",
+			"properties": {
+				"name": "Santo Niño",
+				"city": "Magallanes",
+				"citypopulation": "Magallanes City, Agusan del Norte Population",
+				"lat": 9.0305,
+        		"lng": 125.5129
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "202",
+			"properties": {
+				"name": "Santo Rosario",
+				"city": "Magallanes",
+				"citypopulation": "Magallanes City, Agusan del Norte Population",
+				"lat": 9.0230,
+        		"lng": 125.5172
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "203",
+			"properties": {
+				"name": "Taod‑oy",
+				"city": "Magallanes",
+				"citypopulation": "Magallanes City, Agusan del Norte Population",
+				"lat": 9.0182,
+        		"lng": 125.5682
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "204",
+			"properties": {
+				"name": "Aclan",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9904,
+        		"lng": 125.3088
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "205",
+			"properties": {
+				"name": "Amontay",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9881,
+        		"lng": 125.3199
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "206",
+			"properties": {
+				"name": "Ata\u002datahon",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9805,
+        		"lng": 125.3766
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "207",
+			"properties": {
+				"name": "Barangay 1 (Pob.)",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9897,
+        		"lng": 125.3425
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "208",
+			"properties": {
+				"name": "Barangay 2 (Pob.)",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9889,
+        		"lng": 125.3443
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "209",
+			"properties": {
+				"name": "Barangay 3 (Pob.)",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9869,
+        		"lng": 125.3431
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "210",
+			"properties": {
+				"name": "Barangay 4 (Pob.)",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9873,
+        		"lng": 125.3407
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "211",
+			"properties": {
+				"name": "Barangay 5 (Pob.)",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9858,
+        		"lng": 125.3391
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "212",
+			"properties": {
+				"name": "Barangay 6 (Pob.)",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9855,
+        		"lng": 125.3445
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "213",
+			"properties": {
+				"name": "Barangay 7 (Pob.)",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9828,
+        		"lng": 125.3460
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "214",
+			"properties": {
+				"name": "Camagong",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9694,
+        		"lng": 125.3382
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "215",
+			"properties": {
+				"name": "Cubi\u002dcubi",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9734,
+        		"lng": 125.3831
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "216",
+			"properties": {
+				"name": "Culit",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9461,
+        		"lng": 125.3572
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "217",
+			"properties": {
+				"name": "Jaguimitan",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9239,
+        		"lng": 125.3431
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "218",
+			"properties": {
+				"name": "Kinabjangan",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9749,
+        		"lng": 125.3607
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "219",
+			"properties": {
+				"name": "Punta",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9884,
+        		"lng": 125.3512
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "220",
+			"properties": {
+				"name": "Santa Ana",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9856,
+        		"lng": 125.3296
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "221",
+			"properties": {
+				"name": "Talisay",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9817,
+        		"lng": 125.3397
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "222",
+			"properties": {
+				"name": "Triangulo",
+				"city": "Nasipit",
+				"citypopulation": "Nasipit City, Agusan del Norte Population",
+				"lat": 8.9745,
+        		"lng": 125.3513
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "223",
+			"properties": {
+				"name": "Balangbalang",
+				"city": "Remedios T. Romualdez",
+				"citypopulation": "Remedios T. Romualdez City, Agusan del Norte Population",
+				"lat": 9.0544,
+        		"lng": 125.6224
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "224",
+			"properties": {
+				"name": "Basilisa",
+				"city": "Remedios T. Romualdez",
+				"citypopulation": "Remedios T. Romualdez City, Agusan del Norte Population",
+				"lat": 9.0641,
+        		"lng": 125.5822
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "225",
+			"properties": {
+				"name": "",
+				"city": "Remedios T. Romualdez",
+				"citypopulation": "Remedios T. Romualdez City, Agusan del Norte Population",
+				"lat": null,
+        		"lng": null
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "226",
+			"properties": {
+				"name": "Humilog",
+				"city": "Remedios T. Romualdez",
+				"citypopulation": "Remedios T. Romualdez City, Agusan del Norte Population",
+				"lat": 9.0583,
+        		"lng": 125.5696
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "227",
+			"properties": {
+				"name": "Panaytayon",
+				"city": "Remedios T. Romualdez",
+				"citypopulation": "Remedios T. Romualdez City, Agusan del Norte Population",
+				"lat": 9.0376,
+        		"lng": 125.5725
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "228",
+			"properties": {
+				"name": "Poblacion I (Agay)",
+				"city": "Remedios T. Romualdez",
+				"citypopulation": "Remedios T. Romualdez City, Agusan del Norte Population",
+				"lat": 9.0523,
+        		"lng": 125.5840
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "229",
+			"properties": {
+				"name": "Poblacion II",
+				"city": "Remedios T. Romualdez",
+				"citypopulation": "Remedios T. Romualdez City, Agusan del Norte Population",
+				"lat": 9.0578,
+        		"lng": 125.5935
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "230",
+			"properties": {
+				"name": "San Antonio",
+				"city": "Remedios T. Romualdez",
+				"citypopulation": "Remedios T. Romualdez City, Agusan del Norte Population",
+				"lat": 9.0582,
+        		"lng": 125.6418
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "231",
+			"properties": {
+				"name": "Tagbongabong",
+				"city": "Remedios T. Romualdez",
+				"citypopulation": "Remedios T. Romualdez City, Agusan del Norte Population",
+				"lat": 9.0792,
+        		"lng": 125.6135
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "232",
+			"properties": {
+				"name": "Curva",
+				"city": "Santiago",
+				"citypopulation": "Santiago City, Agusan del Norte Population",
+				"lat": 9.2490,
+        		"lng": 125.5565
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "233",
+			"properties": {
+				"name": "Estanislao Morgado",
+				"city": "Santiago",
+				"citypopulation": "Santiago City, Agusan del Norte Population",
+				"lat": 9.2932,
+        		"lng": 125.5317
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "234",
+			"properties": {
+				"name": "Jagupit",
+				"city": "Santiago",
+				"citypopulation": "Santiago City, Agusan del Norte Population",
+				"lat": 9.2418,
+        		"lng": 125.5589
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "235",
+			"properties": {
+				"name": "La Paz",
+				"city": "Santiago",
+				"citypopulation": "Santiago City, Agusan del Norte Population",
+				"lat": 9.2622,
+        		"lng": 125.5439
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "236",
+			"properties": {
+				"name": "City",
+				"city": "Santiago",
+				"citypopulation": "Santiago City, Agusan del Norte Population",
+				"lat": null,
+        		"lng": null
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "237",
+			"properties": {
+				"name": "Pangaylan‑IP",
+				"city": "Santiago",
+				"citypopulation": "Santiago City, Agusan del Norte Population",
+				"lat": 9.2655,
+        		"lng": 125.5786
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "238",
+			"properties": {
+				"name": "Poblacion I",
+				"city": "Santiago",
+				"citypopulation": "Santiago City, Agusan del Norte Population",
+				"lat": 9.2636,
+        		"lng": 125.5608
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "239",
+			"properties": {
+				"name": "Poblacion II",
+				"city": "Santiago",
+				"citypopulation": "Santiago City, Agusan del Norte Population",
+				"lat": 9.2688,
+        		"lng": 125.5582
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "240",
+			"properties": {
+				"name": "San Isidro",
+				"city": "Santiago",
+				"citypopulation": "Santiago City, Agusan del Norte Population",
+				"lat": 9.2299,
+        		"lng": 125.5628
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "241",
+			"properties": {
+				"name": "Tagbuyacan",
+				"city": "Santiago",
+				"citypopulation": "Santiago City, Agusan del Norte Population",
+				"lat": 9.2938,
+        		"lng": 125.5489
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "242",
+			"properties": {
+				"name": "Binuangan",
+				"city": "Tubay",
+				"citypopulation": "Tubay City, Agusan del Norte Population",
+				"lat": 9.2157,
+        		"lng": 125.5358
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "243",
+			"properties": {
+				"name": "Cabayawa",
+				"city": "Tubay",
+				"citypopulation": "Tubay City, Agusan del Norte Population",
+				"lat": 9.1477,
+        		"lng": 125.5268
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "244",
+			"properties": {
+				"name": "Doña Rosario",
+				"city": "Tubay",
+				"citypopulation": "Tubay City, Agusan del Norte Population",
+				"lat": 9.1598,
+        		"lng": 125.5606
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "245",
+			"properties": {
+				"name": "Doña Telesfora",
+				"city": "Tubay",
+				"citypopulation": "Tubay City, Agusan del Norte Population",
+				"lat": 9.1973,
+        		"lng": 125.5771
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "246",
+			"properties": {
+				"name": "La Fraternidad",
+				"city": "Tubay",
+				"citypopulation": "Tubay City, Agusan del Norte Population",
+				"lat": 9.1782,
+        		"lng": 125.5293
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "247",
+			"properties": {
+				"name": "Lawigan",
+				"city": "Tubay",
+				"citypopulation": "Tubay City, Agusan del Norte Population",
+				"lat": 9.3046,
+        		"lng": 125.5033
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "248",
+			"properties": {
+				"name": "Poblacion 1",
+				"city": "Tubay",
+				"citypopulation": "Tubay City, Agusan del Norte Population",
+				"lat": 9.1627,
+        		"lng": 125.5223
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "249",
+			"properties": {
+				"name": "Poblacion 2",
+				"city": "Tubay",
+				"citypopulation": "Tubay City, Agusan del Norte Population",
+				"lat": 9.1685,
+        		"lng": 125.5323
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "250",
+			"properties": {
+				"name": "Santa Ana",
+				"city": "Tubay",
+				"citypopulation": "Tubay City, Agusan del Norte Population",
+				"lat": 9.1948,
+        		"lng": 125.5632
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "251",
+			"properties": {
+				"name": "Tagmamarkay",
+				"city": "Tubay",
+				"citypopulation": "Tubay City, Agusan del Norte Population",
+				"lat": 9.2145,
+        		"lng": 125.5653
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "252",
+			"properties": {
+				"name": "Tagpangahoy",
+				"city": "Tubay",
+				"citypopulation": "Tubay City, Agusan del Norte Population",
+				"lat": 9.2356,
+        		"lng": 125.5156
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "253",
+			"properties": {
+				"name": "Tinigbasan",
+				"city": "Tubay",
+				"citypopulation": "Tubay City, Agusan del Norte Population",
+				"lat": 9.2673,
+        		"lng": 125.5122
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "254",
+			"properties": {
+				"name": "Victory",
+				"city": "Tubay",
+				"citypopulation": "Tubay City, Agusan del Norte Population",
+				"lat": 9.1487,
+        		"lng": 125.5599
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		}
+    ]
+}

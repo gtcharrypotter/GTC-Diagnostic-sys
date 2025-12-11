@@ -1,0 +1,5657 @@
+{
+    "type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "1",
+			"properties": {
+				"name": "Berseba",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.8335,
+        		"lng": 125.8147
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "2",
+			"properties": {
+				"name": "Bucac",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.6973,
+        		"lng": 125.7645
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "3",
+			"properties": {
+				"name": "Cagbas",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7000,
+        		"lng": 125.7321
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "4",
+			"properties": {
+				"name": "Calaitan",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7677,
+        		"lng": 125.7796
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "5",
+			"properties": {
+				"name": "Canayugan",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7545,
+        		"lng": 125.7179
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "6",
+			"properties": {
+				"name": "Charito",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.6617,
+        		"lng": 125.7542
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "7",
+			"properties": {
+				"name": "Claro Cortez",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7678,
+        		"lng": 125.7330
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "8",
+			"properties": {
+				"name": "Fili",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7117,
+        		"lng": 125.7694
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "9",
+			"properties": {
+				"name": "Gamao",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.6641,
+        		"lng": 125.7389
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "10",
+			"properties": {
+				"name": "Getsemane",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7561,
+        		"lng": 125.8431
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "11",
+			"properties": {
+				"name": "Grace Estate",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7319,
+        		"lng": 125.8337
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "12",
+			"properties": {
+				"name": "Hamogaway",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7112,
+        		"lng": 125.7945
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "13",
+			"properties": {
+				"name": "Katipunan",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.6432,
+        		"lng": 125.7979
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "14",
+			"properties": {
+				"name": "Mabuhay",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7689,
+        		"lng": 125.7137
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "15",
+			"properties": {
+				"name": "Magkiangkang",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7185,
+        		"lng": 125.8272
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "16",
+			"properties": {
+				"name": "Mahayag",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7990,
+        		"lng": 125.7529
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "17",
+			"properties": {
+				"name": "Marcelina",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.6572,
+        		"lng": 125.7829
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "18",
+			"properties": {
+				"name": "Maygatasan",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7102,
+        		"lng": 125.7217
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "19",
+			"properties": {
+				"name": "Montivesta",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7271,
+        		"lng": 125.6776
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "20",
+			"properties": {
+				"name": "Mt. Ararat",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.8257,
+        		"lng": 125.8310
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "21",
+			"properties": {
+				"name": "Mt. Carmel",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7899,
+        		"lng": 125.8302
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "22",
+			"properties": {
+				"name": "Mt. Olive",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7463,
+        		"lng": 125.8302
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "23",
+			"properties": {
+				"name": "New Salem",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7634,
+        		"lng": 125.8589
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "24",
+			"properties": {
+				"name": "Noli",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7426,
+        		"lng": 125.7238
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "25",
+			"properties": {
+				"name": "Osmeña",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.6994,
+        		"lng": 125.8185
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "26",
+			"properties": {
+				"name": "Panaytay",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.6671,
+        		"lng": 125.8190
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "27",
+			"properties": {
+				"name": "Pinagalaan",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7438,
+        		"lng": 125.8040
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "28",
+			"properties": {
+				"name": "Poblacion",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7141,
+        		"lng": 125.7477
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "29",
+			"properties": {
+				"name": "Sagmone",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7372,
+        		"lng": 125.7003
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "30",
+			"properties": {
+				"name": "Saguma",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.6870,
+        		"lng": 125.7460
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "31",
+			"properties": {
+				"name": "Salvacion",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.6849,
+        		"lng": 125.7118
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "32",
+			"properties": {
+				"name": "San Agustin",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7553,
+        		"lng": 125.6781
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "33",
+			"properties": {
+				"name": "San Isidro",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.6791,
+        		"lng": 125.7776
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "34",
+			"properties": {
+				"name": "San Juan",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.8550,
+        		"lng": 125.8443
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "35",
+			"properties": {
+				"name": "Santa Irene",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7352,
+        		"lng": 125.7540
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "36",
+			"properties": {
+				"name": "Santa Teresita",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7155,
+        		"lng": 125.7823
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "37",
+			"properties": {
+				"name": "Santa Niño",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7959,
+        		"lng": 125.7933
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "38",
+			"properties": {
+				"name": "Taglatawan",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7099,
+        		"lng": 125.7587
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "39",
+			"properties": {
+				"name": "Taglibas",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7670,
+        		"lng": 125.6930
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "40",
+			"properties": {
+				"name": "Tagubay",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7749,
+        		"lng": 125.7272
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "41",
+			"properties": {
+				"name": "Verdu",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7240,
+        		"lng": 125.7045
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "42",
+			"properties": {
+				"name": "Villa Undayon",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7290,
+        		"lng": 125.8599
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "43",
+			"properties": {
+				"name": "Wawa",
+				"city": "Bayugan",
+				"citypopulation": "Bayugan City, Agusan del Sur Population",
+				"lat": 8.7982,
+        		"lng": 125.7098
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "44",
+			"properties": {
+				"name": "Bunawan Brook",
+				"city": "Bunawan",
+				"citypopulation": "Bunawan City, Agusan del Sur Population",
+				"lat": 8.1594,
+        		"lng": 126.0106
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "45",
+			"properties": {
+				"name": "Consuelo",
+				"city": "Bunawan",
+				"citypopulation": "Bunawan City, Agusan del Sur Population",
+				"lat": 8.2386,
+        		"lng": 125.9837
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "46",
+			"properties": {
+				"name": "Imelda",
+				"city": "Bunawan",
+				"citypopulation": "Bunawan City, Agusan del Sur Population",
+				"lat": 8.1213,
+        		"lng": 126.0477
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "47",
+			"properties": {
+				"name": "Libertad",
+				"city": "Bunawan",
+				"citypopulation": "Bunawan City, Agusan del Sur Population",
+				"lat": 8.1084,
+        		"lng": 126.0249
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "48",
+			"properties": {
+				"name": "Mambalili",
+				"city": "Bunawan",
+				"citypopulation": "Bunawan City, Agusan del Sur Population",
+				"lat": 8.1986,
+        		"lng": 125.9694
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "49",
+			"properties": {
+				"name": "Nueva Era",
+				"city": "Bunawan",
+				"citypopulation": "Bunawan City, Agusan del Sur Population",
+				"lat": 8.1437,
+        		"lng": 125.9453
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "50",
+			"properties": {
+				"name": "Poblacion",
+				"city": "Bunawan",
+				"citypopulation": "Bunawan City, Agusan del Sur Population",
+				"lat": 8.1633,
+        		"lng": 125.9902
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "51",
+			"properties": {
+				"name": "San Andres",
+				"city": "Bunawan",
+				"citypopulation": "Bunawan City, Agusan del Sur Population",
+				"lat": 8.2066,
+        		"lng": 125.9944
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "52",
+			"properties": {
+				"name": "San Marcos",
+				"city": "Bunawan",
+				"citypopulation": "Bunawan City, Agusan del Sur Population",
+				"lat": 8.2144,
+        		"lng": 125.9271
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "53",
+			"properties": {
+				"name": "San Teodoro",
+				"city": "Bunawan",
+				"citypopulation": "Bunawan City, Agusan del Sur Population",
+				"lat": 8.1788,
+        		"lng": 125.9934
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "54",
+			"properties": {
+				"name": "Agsabu",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6754,
+        		"lng": 125.4529
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "55",
+			"properties": {
+				"name": "Aguinaldo",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6268,
+        		"lng": 125.7356
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "56",
+			"properties": {
+				"name": "Anolingan",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6141,
+        		"lng": 125.7767
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "57",
+			"properties": {
+				"name": "Bakingking",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6791,
+        		"lng": 125.5249
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "57",
+			"properties": {
+				"name": "Balubo",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.7113,
+        		"lng": 125.4539
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "58",
+			"properties": {
+				"name": "Bentahon",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6857,
+        		"lng": 125.6763
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "59",
+			"properties": {
+				"name": "Bunaguit",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6122,
+        		"lng": 125.6763
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "60",
+			"properties": {
+				"name": "Catmonon",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6488,
+        		"lng": 125.7063
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "61",
+			"properties": {
+				"name": "Cebulan",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6278,
+        		"lng": 125.7635
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "62",
+			"properties": {
+				"name": "Concordia",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6135,
+        		"lng": 125.6764
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "63",
+			"properties": {
+				"name": "Crossing Luna",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6735,
+        		"lng": 125.6965
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "64",
+			"properties": {
+				"name": "Cubo",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6917,
+        		"lng": 125.6526
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "65",
+			"properties": {
+				"name": "Dakutan",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6660,
+        		"lng": 125.6852
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "66",
+			"properties": {
+				"name": "Duangan",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6110,
+        		"lng": 125.7306
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "67",
+			"properties": {
+				"name": "Guadalupe",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.5806,
+        		"lng": 125.7113
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "68",
+			"properties": {
+				"name": "Guibonon",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6114,
+        		"lng": 125.3489
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "69",
+			"properties": {
+				"name": "Hawilian",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6675,
+        		"lng": 125.6328
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "70",
+			"properties": {
+				"name": "Kalabuan",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6274,
+        		"lng": 125.3659
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "71",
+			"properties": {
+				"name": "Kinamaybay",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6781,
+        		"lng": 125.2784
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "72",
+			"properties": {
+				"name": "Labao",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6275,
+        		"lng": 125.7146
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "73",
+			"properties": {
+				"name": "Langag",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6922,
+        		"lng": 125.6245
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "74",
+			"properties": {
+				"name": "Maasin",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6830,
+        		"lng": 125.4775
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "75",
+			"properties": {
+				"name": "Mac\u002dArthur",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.5854,
+        		"lng": 125.7405
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "76",
+			"properties": {
+				"name": "Mahagcot",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6876,
+        		"lng": 125.6910
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "77",
+			"properties": {
+				"name": "Maliwanag",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.5288,
+        		"lng": 125.5319
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "78",
+			"properties": {
+				"name": "Milagros",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6367,
+        		"lng": 125.5814
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "79",
+			"properties": {
+				"name": "Nato",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6454,
+        		"lng": 125.6379
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "80",
+			"properties": {
+				"name": "New Gingoog",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6834,
+        		"lng": 125.5876
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "81",
+			"properties": {
+				"name": "Odiong",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6159,
+        		"lng": 125.7525
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "82",
+			"properties": {
+				"name": "Oro",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.5903,
+        		"lng": 125.6681
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "83",
+			"properties": {
+				"name": "Piglawigan",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6668,
+        		"lng": 125.6634
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "84",
+			"properties": {
+				"name": "Poblacion",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6784,
+        		"lng": 125.6472
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "85",
+			"properties": {
+				"name": "Remedios",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6679,
+        		"lng": 125.6079
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "86",
+			"properties": {
+				"name": "Salug",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6062,
+        		"lng": 125.4126
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "87",
+			"properties": {
+				"name": "San Isidro",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6981,
+        		"lng": 125.6721
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "88",
+			"properties": {
+				"name": "San Jose",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.5935,
+        		"lng": 125.7511
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "89",
+			"properties": {
+				"name": "San Toribio",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6407,
+        		"lng": 125.7411
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "90",
+			"properties": {
+				"name": "San Vicente",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.4890,
+        		"lng": 125.4067
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "91",
+			"properties": {
+				"name": "Santa Fe",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6254,
+        		"lng": 125.6890
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "92",
+			"properties": {
+				"name": "Segunda",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.5517,
+        		"lng": 125.5251
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "93",
+			"properties": {
+				"name": "Sinakungan",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.5815,
+        		"lng": 125.3804
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "94",
+			"properties": {
+				"name": "Tagabase",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6659,
+        		"lng": 125.5834
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "95",
+			"properties": {
+				"name": "Taganahaw",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.7087,
+        		"lng": 125.6794
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "96",
+			"properties": {
+				"name": "Tagbalili",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.5449,
+        		"lng": 125.4434
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "97",
+			"properties": {
+				"name": "Tahina",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.6104,
+        		"lng": 125.6610
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "98",
+			"properties": {
+				"name": "Tandang Sora",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.5431,
+        		"lng": 125.6971
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "99",
+			"properties": {
+				"name": "Valentina",
+				"city": "Esperanza",
+				"citypopulation": "Esperanza City, Agusan del Sur Population",
+				"lat": 8.5698,
+        		"lng": 125.7465
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "100",
+			"properties": {
+				"name": "Angeles",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.2761,
+        		"lng": 125.6123
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "101",
+			"properties": {
+				"name": "Bataan",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.2280,
+        		"lng": 125.7417
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "102",
+			"properties": {
+				"name": "Comota",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.2990,
+        		"lng": 125.7266
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "103",
+			"properties": {
+				"name": "Halapitan",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.2499,
+        		"lng": 125.7529
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "104",
+			"properties": {
+				"name": "Kasapa II",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.1495,
+        		"lng": 125.6376
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "105",
+			"properties": {
+				"name": "Langasian",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.2469,
+        		"lng": 125.7161
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "106",
+			"properties": {
+				"name": "Lydia",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.3059,
+        		"lng": 125.6984
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "107",
+			"properties": {
+				"name": "Osmeña, Sr.",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.3007,
+        		"lng": 125.7842
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "108",
+			"properties": {
+				"name": "Panagangan",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.2370,
+        		"lng": 125.7801
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "109",
+			"properties": {
+				"name": "Poblacion",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.2823,
+        		"lng": 125.8167
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "110",
+			"properties": {
+				"name": "Sabang Adgawan",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.3164,
+        		"lng": 125.8839
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "111",
+			"properties": {
+				"name": "Sagunto",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.2520,
+        		"lng": 125.7770
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "112",
+			"properties": {
+				"name": "San Patricio",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.2681,
+        		"lng": 125.7404
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "113",
+			"properties": {
+				"name": "Valentina",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.1931,
+        		"lng": 125.7359
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "114",
+			"properties": {
+				"name": "Villa Paz",
+				"city": "La Paz",
+				"citypopulation": "La Paz City, Agusan del Sur Population",
+				"lat": 8.2634,
+        		"lng": 125.8161
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "115",
+			"properties": {
+				"name": "Binucayan",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.0105,
+        		"lng": 125.8188
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "116",
+			"properties": {
+				"name": "Johnson",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.0911,
+        		"lng": 125.8429
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "117",
+			"properties": {
+				"name": "Kasapa",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.1462,
+        		"lng": 125.6434
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "118",
+			"properties": {
+				"name": "Katipunan",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.1845,
+        		"lng": 125.8984
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "119",
+			"properties": {
+				"name": "Kauswagan",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 7.9952,
+        		"lng": 125.7679
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "120",
+			"properties": {
+				"name": "Magaud",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.1982,
+        		"lng": 125.8160
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "121",
+			"properties": {
+				"name": "Nueva Gracia",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.1243,
+        		"lng": 125.8768
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "122",
+			"properties": {
+				"name": "Poblacion",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.1884,
+        		"lng": 125.8519
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "123",
+			"properties": {
+				"name": "Sabud",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.0240,
+        		"lng": 125.6215
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "124",
+			"properties": {
+				"name": "San Isidro",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.0467,
+        		"lng": 125.8101
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "125",
+			"properties": {
+				"name": "San Mariano",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.0552,
+        		"lng": 125.7722
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "126",
+			"properties": {
+				"name": "San Vicente",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.1226,
+        		"lng": 125.7998
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "127",
+			"properties": {
+				"name": "Santa Teresa",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.0938,
+        		"lng": 125.8116
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "128",
+			"properties": {
+				"name": "Santo Niño",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.0251,
+        		"lng": 125.7538
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "129",
+			"properties": {
+				"name": "Santo Tomas",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.1857,
+        		"lng": 125.8052
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "130",
+			"properties": {
+				"name": "Violanta",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.1908,
+        		"lng": 125.8233
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "131",
+			"properties": {
+				"name": "Waloe",
+				"city": "Loreto",
+				"citypopulation": "Loreto City, Agusan del Sur Population",
+				"lat": 8.1952,
+        		"lng": 125.7640
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "132",
+			"properties": {
+				"name": "Aurora",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5906,
+        		"lng": 125.8410
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "133",
+			"properties": {
+				"name": "Awa",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6420,
+        		"lng": 125.9071
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "134",
+			"properties": {
+				"name": "Azpetia",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6383,
+        		"lng": 125.9451
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "135",
+			"properties": {
+				"name": "La Caridad",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5336,
+        		"lng": 125.9097
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "136",
+			"properties": {
+				"name": "La Perian",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6522,
+        		"lng": 125.8388
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "137",
+			"properties": {
+				"name": "La Purisima",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6909,
+        		"lng": 125.8971
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "138",
+			"properties": {
+				"name": "La Suerte",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5802,
+        		"lng": 125.8964
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "139",
+			"properties": {
+				"name": "La Union",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5771,
+        		"lng": 125.8471
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "140",
+			"properties": {
+				"name": "Las Navas",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5767,
+        		"lng": 125.9003
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "141",
+			"properties": {
+				"name": "Libertad",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6562,
+        		"lng": 125.9603
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "142",
+			"properties": {
+				"name": "Los Arcos",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6330,
+        		"lng": 125.9852
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "143",
+			"properties": {
+				"name": "Lucena",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5667,
+        		"lng": 125.8728
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "144",
+			"properties": {
+				"name": "Mabuhay",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6687,
+        		"lng": 125.9568
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "145",
+			"properties": {
+				"name": "Magsaysay",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6311,
+        		"lng": 126.0082
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "146",
+			"properties": {
+				"name": "Mapaga",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5941,
+        		"lng": 125.8857
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "147",
+			"properties": {
+				"name": "Napo",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5447,
+        		"lng": 125.8981
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "148",
+			"properties": {
+				"name": "New Maug",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6386,
+        		"lng": 125.9254
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "149",
+			"properties": {
+				"name": "Patin\u002day",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5490,
+        		"lng": 125.9382
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "150",
+			"properties": {
+				"name": "Poblacion (Bahbah)",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6069,
+        		"lng": 125.9163
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "151",
+			"properties": {
+				"name": "Salimbogaon",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6483,
+        		"lng": 125.9448
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "152",
+			"properties": {
+				"name": "Salvacion",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5841,
+        		"lng": 125.9198
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "153",
+			"properties": {
+				"name": "San Joaquin",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6254,
+        		"lng": 125.8352
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "154",
+			"properties": {
+				"name": "San Jose",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6786,
+        		"lng": 125.8409
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "155",
+			"properties": {
+				"name": "San Lorenzo",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6675,
+        		"lng": 126.0029
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "156",
+			"properties": {
+				"name": "San Martin",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6566,
+        		"lng": 125.9267
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "157",
+			"properties": {
+				"name": "San Pedro",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5521,
+        		"lng": 125.8843
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "158",
+			"properties": {
+				"name": "San Rafael",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5127,
+        		"lng": 125.8487
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "159",
+			"properties": {
+				"name": "San Salvador",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5380,
+        		"lng": 125.8116
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "160",
+			"properties": {
+				"name": "San Vicente",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.5402,
+        		"lng": 125.8578
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "161",
+			"properties": {
+				"name": "Santa Irene",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6669,
+        		"lng": 125.8759
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "162",
+			"properties": {
+				"name": "Santa Maria",
+				"city": "Prosperidad",
+				"citypopulation": "Prosperidad City, Agusan del Sur Population",
+				"lat": 8.6609,
+        		"lng": 125.8888
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "163",
+			"properties": {
+				"name": "Bayugan 3",
+				"city": "Rosario",
+				"citypopulation": "Rosario City, Agusan del Sur Population",
+				"lat": 8.3022,
+        		"lng": 126.0040
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "164",
+			"properties": {
+				"name": "Cabantao",
+				"city": "Rosario",
+				"citypopulation": "Rosario City, Agusan del Sur Population",
+				"lat": 8.3918,
+        		"lng": 126.0345
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "165",
+			"properties": {
+				"name": "Cabawan",
+				"city": "Rosario",
+				"citypopulation": "Rosario City, Agusan del Sur Population",
+				"lat": 8.3576,
+        		"lng": 125.9978
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "166",
+			"properties": {
+				"name": "Libuac",
+				"city": "Rosario",
+				"citypopulation": "Rosario City, Agusan del Sur Population",
+				"lat": 8.3905,
+        		"lng": 126.0110
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "167",
+			"properties": {
+				"name": "Maligaya",
+				"city": "Rosario",
+				"citypopulation": "Rosario City, Agusan del Sur Population",
+				"lat": 8.4239,
+        		"lng": 126.0325
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "168",
+			"properties": {
+				"name": "Marfil",
+				"city": "Rosario",
+				"citypopulation": "Rosario City, Agusan del Sur Population",
+				"lat": 8.3939,
+        		"lng": 126.0841
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "169",
+			"properties": {
+				"name": "Novele",
+				"city": "Rosario",
+				"citypopulation": "Rosario City, Agusan del Sur Population",
+				"lat": 8.3513,
+        		"lng": 125.9769
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "170",
+			"properties": {
+				"name": "Poblacion",
+				"city": "Rosario",
+				"citypopulation": "Rosario City, Agusan del Sur Population",
+				"lat": 8.3837,
+        		"lng": 126.0011
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "171",
+			"properties": {
+				"name": "Santa Cruz",
+				"city": "Rosario",
+				"citypopulation": "Rosario City, Agusan del Sur Population",
+				"lat": 8.3612,
+        		"lng": 126.0161
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "172",
+			"properties": {
+				"name": "Tagbayagan",
+				"city": "Rosario",
+				"citypopulation": "Rosario City, Agusan del Sur Population",
+				"lat": 8.3688,
+        		"lng": 125.9694
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "173",
+			"properties": {
+				"name": "Wasi\u002dan",
+				"city": "Rosario",
+				"citypopulation": "Rosario City, Agusan del Sur Population",
+				"lat": 8.3257,
+        		"lng": 126.0085
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "174",
+			"properties": {
+				"name": "Alegria",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.5060,
+        		"lng": 126.0090
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "175",
+			"properties": {
+				"name": "Barangay 1 (Pob.)",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.5124,
+        		"lng": 125.9745
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "176",
+			"properties": {
+				"name": "Barangay 2 (Pob.)",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.5086,
+        		"lng": 125.9811
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "177",
+			"properties": {
+				"name": "Barangay 3 (Pob.)",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.5067,
+        		"lng": 125.9717
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "178",
+			"properties": {
+				"name": "Barangay 4 (Pob.)",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.5060,
+        		"lng": 125.9791
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "179",
+			"properties": {
+				"name": "Barangay 5 (Pob.)",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.5029,
+        		"lng": 125.9781
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "180",
+			"properties": {
+				"name": "Bayugan 2",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4519,
+        		"lng": 125.9697
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "181",
+			"properties": {
+				"name": "Bitan\u002dagan",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.5345,
+        		"lng": 125.9831
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "182",
+			"properties": {
+				"name": "Borbon",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4848,
+        		"lng": 125.8940
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "183",
+			"properties": {
+				"name": "Buenasuerte",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4094,
+        		"lng": 125.9379
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "184",
+			"properties": {
+				"name": "Caimpugan",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.3934,
+        		"lng": 125.9149
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "185",
+			"properties": {
+				"name": "Das\u002dagan",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.5461,
+        		"lng": 126.0135
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "186",
+			"properties": {
+				"name": "Ebro",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4460,
+        		"lng": 125.9379
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "187",
+			"properties": {
+				"name": "Hubang",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.5180,
+        		"lng": 125.9655
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "188",
+			"properties": {
+				"name": "Karaus",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4925,
+        		"lng": 125.9770
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "189",
+			"properties": {
+				"name": "Ladgadan",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4896,
+        		"lng": 125.9332
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "190",
+			"properties": {
+				"name": "Lapinigan",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4293,
+        		"lng": 125.9822
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "191",
+			"properties": {
+				"name": "Lucac",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.5614,
+        		"lng": 125.9620
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "192",
+			"properties": {
+				"name": "Mate",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4321,
+        		"lng": 126.0141
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "193",
+			"properties": {
+				"name": "New Visayas",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4390,
+        		"lng": 125.9010
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "194",
+			"properties": {
+				"name": "Ormaca",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4474,
+        		"lng": 125.9935
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "195",
+			"properties": {
+				"name": "Pasta",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4089,
+        		"lng": 125.9841
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "196",
+			"properties": {
+				"name": "Pisa\u002dan",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4089,
+        		"lng": 125.9841
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "197",
+			"properties": {
+				"name": "Rizal",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4883,
+        		"lng": 125.8711
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "198",
+			"properties": {
+				"name": "San Isidro",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.4805,
+        		"lng": 125.9674
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "199",
+			"properties": {
+				"name": "Santa Ana",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.5003,
+        		"lng": 125.9608
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "200",
+			"properties": {
+				"name": "Santa Ana",
+				"city": "San Francisco",
+				"citypopulation": "San Francisco City, Agusan del Sur Population",
+				"lat": 8.5135,
+        		"lng": 125.9066
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "201",
+			"properties": {
+				"name": "Anislagan",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.5992,
+        		"lng": 125.7966
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "202",
+			"properties": {
+				"name": "Balit",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.4844,
+        		"lng": 125.6873
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "203",
+			"properties": {
+				"name": "Baylo",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.4463,
+        		"lng": 125.7327	
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "204",
+			"properties": {
+				"name": "Binicalan",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.3759,
+        		"lng": 125.5254
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "205",
+			"properties": {
+				"name": "Cecilia",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.5528,
+        		"lng": 125.7859
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "206",
+			"properties": {
+				"name": "Coalicion",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.4197,
+        		"lng": 125.7344
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "207",
+			"properties": {
+				"name": "Culi",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.5016,
+        		"lng": 125.7645
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "208",
+			"properties": {
+				"name": "Dimasalang",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.5473,
+        		"lng": 125.7182
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "209",
+			"properties": {
+				"name": "Don Alejandro",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.4469,
+        		"lng": 125.7215
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "210",
+			"properties": {
+				"name": "Don Pedro",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.5475,
+        		"lng": 125.7386
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "211",
+			"properties": {
+				"name": "Doña Flavia",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.4933,
+        		"lng": 125.7312
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "212",
+			"properties": {
+				"name": "Doña Maxima",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.4993,
+        		"lng": 125.7367
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "213",
+			"properties": {
+				"name": "Mahagsay",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.4853,
+        		"lng": 125.5082
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "214",
+			"properties": {
+				"name": "Mahapag",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.5623,
+        		"lng": 125.7631
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "215",
+			"properties": {
+				"name": "Mahayahay",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.3828,
+        		"lng": 125.5967
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "216",
+			"properties": {
+				"name": "Muritula",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.5266,
+        		"lng": 125.7584
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "217",
+			"properties": {
+				"name": "Nuevo Trabajo",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.5045,
+        		"lng": 125.7208
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "218",
+			"properties": {
+				"name": "Poblacion",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.4770,
+        		"lng": 125.7471
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "219",
+			"properties": {
+				"name": "Policarpo",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.4749,
+        		"lng": 125.6559
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "220",
+			"properties": {
+				"name": "San Isidro",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.5368,
+        		"lng": 125.7672
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "221",
+			"properties": {
+				"name": "San Pedro",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.4491,
+        		"lng": 125.7073
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "222",
+			"properties": {
+				"name": "Santa Ines",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.5215,
+        		"lng": 125.7287
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "223",
+			"properties": {
+				"name": "Santa Rita",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.4739,
+        		"lng": 125.5716
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "224",
+			"properties": {
+				"name": "Santiago",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.5594,
+        		"lng": 125.7517
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "225",
+			"properties": {
+				"name": "Wegguam",
+				"city": "San Luis",
+				"citypopulation": "San Luis City, Agusan del Sur Population",
+				"lat": 8.5852,
+        		"lng": 125.7657
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "226",
+			"properties": {
+				"name": "Angas",
+				"city": "Santa Josefa",
+				"citypopulation": "Santa Josefa City, Agusan del Sur Population",
+				"lat": 7.9569,
+        		"lng": 126.0280
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "227",
+			"properties": {
+				"name": "Aurora",
+				"city": "Santa Josefa",
+				"citypopulation": "Santa Josefa City, Agusan del Sur Population",
+				"lat": 8.0089,
+        		"lng": 126.0174
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "228",
+			"properties": {
+				"name": "Awao",
+				"city": "Santa Josefa",
+				"citypopulation": "Santa Josefa City, Agusan del Sur Population",
+				"lat": 7.9671,
+        		"lng": 126.0017
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "229",
+			"properties": {
+				"name": "Concepcion",
+				"city": "Santa Josefa",
+				"citypopulation": "Santa Josefa City, Agusan del Sur Population",
+				"lat": 7.9828,
+        		"lng": 126.0101
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "230",
+			"properties": {
+				"name": "Pag\u002dasa",
+				"city": "Santa Josefa",
+				"citypopulation": "Santa Josefa City, Agusan del Sur Population",
+				"lat": 8.0758,
+        		"lng": 126.0014
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "231",
+			"properties": {
+				"name": "Patrocinio",
+				"city": "Santa Josefa",
+				"citypopulation": "Santa Josefa City, Agusan del Sur Population",
+				"lat": 7.9793,
+        		"lng": 126.0496
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "232",
+			"properties": {
+				"name": "Poblacion",
+				"city": "Santa Josefa",
+				"citypopulation": "Santa Josefa City, Agusan del Sur Population",
+				"lat": 7.9854,
+        		"lng": 126.0276
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "233",
+			"properties": {
+				"name": "San Jose",
+				"city": "Santa Josefa",
+				"citypopulation": "Santa Josefa City, Agusan del Sur Population",
+				"lat": 8.0037,
+        		"lng": 126.0010
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "234",
+			"properties": {
+				"name": "Santa Isabel",
+				"city": "Santa Josefa",
+				"citypopulation": "Santa Josefa City, Agusan del Sur Population",
+				"lat": 8.0085,
+        		"lng": 126.0343
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "235",
+			"properties": {
+				"name": "Sayon",
+				"city": "Santa Josefa",
+				"citypopulation": "Santa Josefa City, Agusan del Sur Population",
+				"lat": 7.9835,
+        		"lng": 125.9880
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "236",
+			"properties": {
+				"name": "Tapaz",
+				"city": "Santa Josefa",
+				"citypopulation": "Santa Josefa City, Agusan del Sur Population",
+				"lat": 8.0206,
+        		"lng": 125.9944
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "237",
+			"properties": {
+				"name": "Afga",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8731,
+        		"lng": 125.6561
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "238",
+			"properties": {
+				"name": "Anahawan",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8431,
+        		"lng": 125.6622
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "239",
+			"properties": {
+				"name": "Banagbanag",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.9240,
+        		"lng": 125.7518
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "240",
+			"properties": {
+				"name": "Del Rosario",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8545,
+        		"lng": 125.7060
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "241",
+			"properties": {
+				"name": "El Rio",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8608,
+        		"lng": 125.6724
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "242",
+			"properties": {
+				"name": "Ilihan",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.7936,
+        		"lng": 125.6952
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "243",
+			"properties": {
+				"name": "Kauswagan",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8099,
+        		"lng": 125.6779
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "244",
+			"properties": {
+				"name": "Kioya",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8242,
+        		"lng": 125.7369
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "245",
+			"properties": {
+				"name": "Kolambugan",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.9906,
+        		"lng": 125.7310
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "246",
+			"properties": {
+				"name": "Magkalape",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.9082,
+        		"lng": 125.7046
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "247",
+			"properties": {
+				"name": "Magsaysay",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8999,
+        		"lng": 125.7329
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "248",
+			"properties": {
+				"name": "Mahayahay",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8412,
+        		"lng": 125.6856
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "249",
+			"properties": {
+				"name": "New Tubigon",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8861,
+        		"lng": 125.8272
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "250",
+			"properties": {
+				"name": "Padiay",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.9685,
+        		"lng": 125.7403
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "251",
+			"properties": {
+				"name": "Perez",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.9486,
+        		"lng": 125.7304
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "252",
+			"properties": {
+				"name": "Poblacion",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8222,
+        		"lng": 125.6940
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "253",
+			"properties": {
+				"name": "San Isidro",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8863,
+        		"lng": 125.7306
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "254",
+			"properties": {
+				"name": "San Vicente",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8070,
+        		"lng": 125.7019
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "255",
+			"properties": {
+				"name": "Santa Cruz",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.9120,
+        		"lng": 125.7238
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "256",
+			"properties": {
+				"name": "Santa Maria",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8941,
+        		"lng": 125.6880
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "257",
+			"properties": {
+				"name": "Sinai",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.7858,
+        		"lng": 125.6663
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "258",
+			"properties": {
+				"name": "Tabon\u002dtabon",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.9022,
+        		"lng": 125.6568
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "259",
+			"properties": {
+				"name": "Tag\u002duyango",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8187,
+        		"lng": 125.7067
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "259",
+			"properties": {
+				"name": "Villangit",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8568,
+        		"lng": 125.7272
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "260",
+			"properties": {
+				"name": "Villangit",
+				"city": "Sibagat",
+				"citypopulation": "Sibagat City, Agusan del Sur Population",
+				"lat": 8.8568,
+        		"lng": 125.7272
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "261",
+			"properties": {
+				"name": "Batucan",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.4682,
+        		"lng": 125.8374
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "262",
+			"properties": {
+				"name": "BuenaGracia",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.4211,
+        		"lng": 125.8008
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "263",
+			"properties": {
+				"name": "Causwagan",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.4469,
+        		"lng": 125.8397
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "264",
+			"properties": {
+				"name": "Culi",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.4897,
+        		"lng": 125.7818
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "265",
+			"properties": {
+				"name": "Del Monte",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.4904,
+        		"lng": 125.8420
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "266",
+			"properties": {
+				"name": "Desamparados",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.3384,
+        		"lng": 125.7961
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "267",
+			"properties": {
+				"name": "La Flora",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.3946,
+        		"lng": 125.8160
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "268",
+			"properties": {
+				"name": "Labnig",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.4502,
+        		"lng": 125.8169
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "269",
+			"properties": {
+				"name": "Maharlika",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.3621,
+        		"lng": 125.8598
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "270",
+			"properties": {
+				"name": "Marbon",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.3809,
+        		"lng": 125.7765
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "271",
+			"properties": {
+				"name": "Sabang Gibung",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.3272,
+        		"lng": 125.8880
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "272",
+			"properties": {
+				"name": "San Agustin",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.4480,
+        		"lng": 125.7864
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "273",
+			"properties": {
+				"name": "San Isidro",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.4553,
+        		"lng": 125.7844
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "274",
+			"properties": {
+				"name": "San Nicolas",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.4587,
+        		"lng": 125.7826
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "275",
+			"properties": {
+				"name": "Zamora",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.4679,
+        		"lng": 125.7947
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "276",
+			"properties": {
+				"name": "Zillovia",
+				"city": "Talacogon",
+				"citypopulation": "Talacogon City, Agusan del Sur Population",
+				"lat": 8.4273,
+        		"lng": 125.7400
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "277",
+			"properties": {
+				"name": "Basa",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 8.0697,
+        		"lng": 126.0600
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "278",
+			"properties": {
+				"name": "Cebolin",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 8.0403,
+        		"lng": 126.1334
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "279",
+			"properties": {
+				"name": "Cuevas",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 8.0189,
+        		"lng": 126.0933
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "280",
+			"properties": {
+				"name": "Kapatungan",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 8.0803,
+        		"lng": 126.0350
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "281",
+			"properties": {
+				"name": "Langkila\u002dan",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 7.9684,
+        		"lng": 126.0878
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "282",
+			"properties": {
+				"name": "Manat",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 8.0946,
+        		"lng": 126.0865
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "283",
+			"properties": {
+				"name": "New Visayas",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 7.9902,
+        		"lng": 126.1137
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "284",
+			"properties": {
+				"name": "Pangyan",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 7.9890,
+        		"lng": 126.1814
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "285",
+			"properties": {
+				"name": "Poblacion",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 8.0445,
+        		"lng": 126.0630
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "286",
+			"properties": {
+				"name": "Pulang\u002dlupa",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 8.0053,
+        		"lng": 126.0759
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "287",
+			"properties": {
+				"name": "Salvacion",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 8.0101,
+        		"lng": 126.1242
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "288",
+			"properties": {
+				"name": "San Ignacio",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 8.0019,
+        		"lng": 126.1480
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "289",
+			"properties": {
+				"name": "San Isidro",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 8.0566,
+        		"lng": 126.1434
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "290",
+			"properties": {
+				"name": "San Roque",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 8.0350,
+        		"lng": 126.1619
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "291",
+			"properties": {
+				"name": "Santa Maria",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 8.0350,
+        		"lng": 126.1619
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "292",
+			"properties": {
+				"name": "Tudela",
+				"city": "Trento",
+				"citypopulation": "Trento City, Agusan del Sur Population",
+				"lat": 8.0684,
+        		"lng": 126.1032
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "293",
+			"properties": {
+				"name": "Anitap",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 7.9596,
+        		"lng": 125.7892
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "294",
+			"properties": {
+				"name": "Bacay II",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 8.0860,
+        		"lng": 125.8808
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "295",
+			"properties": {
+				"name": "Binongan",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 8.0232,
+        		"lng": 125.9783
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "296",
+			"properties": {
+				"name": "Caigangan",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 8.0583,
+        		"lng": 125.8619
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "297",
+			"properties": {
+				"name": "Candiis",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 7.9376,
+        		"lng": 125.8796
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "298",
+			"properties": {
+				"name": "Del Monte",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 7.9876,
+        		"lng": 125.8821
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "299",
+			"properties": {
+				"name": "Del Mateo",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 8.0888,
+        		"lng": 125.8895
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "300",
+			"properties": {
+				"name": "Katipunan",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 7.9756,
+        		"lng": 125.8548
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "301",
+			"properties": {
+				"name": "La Fortuna",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 8.0257,
+        		"lng": 125.9137
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "302",
+			"properties": {
+				"name": "Limot",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 7.9530,
+        		"lng": 125.8752
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "303",
+			"properties": {
+				"name": "Magsaysay",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 8.0542,
+        		"lng": 125.9312
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "304",
+			"properties": {
+				"name": "Masayan",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 8.0641,
+        		"lng": 125.9032
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "305",
+			"properties": {
+				"name": "Poblacion",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 8.0721,
+        		"lng": 125.9549
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "306",
+			"properties": {
+				"name": "Sampaguita",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 8.0209,
+        		"lng": 125.9508
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "307",
+			"properties": {
+				"name": "San Gabriel",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 8.0927,
+        		"lng": 125.9202
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "308",
+			"properties": {
+				"name": "Santa Cruz",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 7.9840,
+        		"lng": 125.8385
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "309",
+			"properties": {
+				"name": "Santa Emelia",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 7.9436,
+        		"lng": 125.9030
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "310",
+			"properties": {
+				"name": "Sawagan",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 8.0155,
+        		"lng": 125.8708
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "311",
+			"properties": {
+				"name": "Sinobong",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 7.9631,
+        		"lng": 125.9214
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "312",
+			"properties": {
+				"name": "Sisimon",
+				"city": "Veruela",
+				"citypopulation": "Veruela City, Agusan del Sur Population",
+				"lat": 7.9655,
+        		"lng": 125.8632
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+					]
+				]
+			}
+		}
+    ]
+}

@@ -1,0 +1,227 @@
+@import "@flaticon/flaticon-uicons/css/all/all";
+@import url("leaflet/dist/leaflet.css");
+/* @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;700&family=Open+Sans:wght@300;500;700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:wght@300;500;700&display=swap"); */
+html {
+	font-family: "Noto Sans", sans-serif !important;
+	/* font-family: "Open Sans", sans-serif; */
+}
+.leaflet-container {
+	height: 100%;
+}
+.noto-sans-thin {
+	font-family: "Noto Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 100;
+	font-style: normal;
+	font-variation-settings: "wdth" 100;
+}
+.noto-sans-light {
+	font-family: "Noto Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 200;
+	font-style: normal;
+	font-variation-settings: "wdth" 100;
+}
+.noto-sans-regular {
+	font-family: "Noto Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+	font-variation-settings: "wdth" 100;
+}
+.noto-sans-medium {
+	font-family: "Noto Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: normal;
+	font-variation-settings: "wdth" 100;
+}
+
+.noto-sans-semibold {
+	font-family: "Noto Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 600;
+	font-style: normal;
+	font-variation-settings: "wdth" 100;
+}
+
+.noto-sans-bold {
+	font-family: "Noto Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 700;
+	font-style: normal;
+	font-variation-settings: "wdth" 100;
+}
+
+.font-montserrat {
+	font-family: "Montserrat", sans-serif !important;
+}
+.font-opensans {
+	font-family: "Open Sans", sans-serif !important;
+}
+.font-roboto {
+	font-family: "Roboto", sans-serif !important;
+}
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+.animate-fadeIn {
+	animation: fadeIn 0.2s cubic-bezier(0, 0.3, 0.6, 1);
+}
+.modal {
+	@apply animate-fadeIn fixed top-0 left-0 z-[2050] w-full h-full bg-black bg-opacity-70 flex items-center justify-center;
+}
+.Toastify__toast {
+	z-index: 9999;
+}
+.Toastify__toast--success {
+	@apply bg-[#d6eade] text-success;
+}
+
+.Toastify__toast--danger,
+.Toastify__toast--error {
+	@apply bg-[#f0d6d6] text-danger;
+}
+.Toastify__toast--warning {
+	@apply bg-[#f5eadd] text-warning;
+}
+.Toastify__toast--info,
+.Toastify__toast--information {
+	@apply bg-[#deeef5] text-info;
+}
+
+.Toastify__toast-body {
+	font-family: "Inter", sans-serif;
+	@apply font-semibold tracking-wide text-sm;
+}
+
+.tele-bg {
+	background: linear-gradient(
+			0deg,
+			rgba(255, 255, 255, 0.8),
+			rgba(255, 255, 255, 0.8)
+		),
+		url("./white-bg.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.table table {
+	@apply w-full;
+}
+
+.table table thead td,
+.table table thead th {
+	@apply border border-opacity-30 py-3 px-2 text-sm !text-slate-800 font-semibold bg-gray-100;
+}
+
+.table table tbody td,
+.table table tbody th {
+	@apply border p-2 text-sm text-slate-600 bg-slate-50 bg-opacity-50 border-opacity-30;
+}
+
+.sever-thin {
+	@apply !text-blue-400 font-bold;
+}
+.thin {
+	@apply !text-blue-600 font-bold;
+}
+.mild-thin {
+	@apply !text-green-300 font-bold;
+}
+.normal {
+	@apply !text-green-600 font-bold;
+}
+.over-weight {
+	@apply !text-orange-400 font-bold;
+}
+.obese {
+	@apply !text-red-600 font-bold;
+}
+
+.elevated {
+	@apply !text-yellow-300 font-bold;
+}
+.hypertension-1 {
+	@apply !text-orange-400 font-bold;
+}
+.hypertension-2 {
+	@apply !text-orange-600 font-bold;
+}
+.hypertension-3 {
+	@apply !text-red-700 font-bold;
+}
+
+.react-select__control > div {
+	@apply h-[44px] border bg-white rounded-lg;
+}
+
+.react-select__control--is-focused > div {
+	@apply shadow-blue-300 ring-1 ring-blue-500;
+}
+
+.react-select__control--is-focused > div * {
+	@apply text-sm;
+}
+
+.react-select__control > div.error-input {
+	@apply h-[46px] bg-white rounded-lg border-danger;
+}
+
+.react-select__menu-list {
+	@apply !p-0;
+}
+.react-select__option {
+	@apply !text-dark duration-200;
+}
+
+.react-select__option:first-child {
+	@apply rounded-t;
+}
+.react-select__option:last-child {
+	@apply rounded-b;
+}
+.react-select__option--is-focused {
+	@apply !text-darker !bg-primary bg-opacity-10;
+}
+.react-select__option--is-selected {
+	@apply !text-white font-bold !bg-primary;
+}
+.slanted {
+	clip-path: polygon(0% 0%, 100% 0%, 95% 100%, 0% 100%);
+}
+.slanted-reverse {
+	clip-path: polygon(7% 0%, 100% 0%, 100% 100%, 0% 100%);
+}
+.break-lines {
+	word-wrap: break-word;
+	max-width: 100ch;
+}
+
+/* General Print Styling */
+@media print {
+	body {
+		-webkit-print-color-adjust: exact; /* Ensures proper color printing */
+	}
+
+	/* Hides non-printable elements */
+	.non-printable {
+		display: none !important;
+	}
+
+	/* Printable Area Styling */
+	.printable-area {
+		width: 8.5in; /* Set to long bond paper width */
+		height: 14in; /* Set to long bond paper height */
+		padding: 0.5in; /* Margin for printing */
+		background: #fff;
+		color: #000;
+		font-size: 8px;
+	}
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<!-- <link rel="icon" type="image/svg+xml" href="/vite.svg" /> -->
+	<link rel="icon" type="image/svg+xml" href="/logo.png" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>GTC Clinic Enterprise</title>
+</head>
+
+<body style="position: relative">
+	<div id="root"></div>
+	<div id="loader-page" style="
+				backdrop-filter: blur(10px);
+				position: fixed;
+				height: 100%;
+				background: rgba(255, 255, 255, 0.9);
+				width: 100%;
+				overflow: hidden;
+				z-index: 3000;
+				top: 0;
+				left: 0;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				align-items: center;
+				transition: all 0.5s;
+				opacity: 0;
+				pointer-events: none;
+			">
+		<dotlottie-player src="https://lottie.host/c3629cf5-61f8-4c59-9a44-dfe665dcb35f/P6r6bqcyqQ.json"
+			background="transparent" speed="2.5" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
+		<span>Loading...</span>
+	</div>
+
+	<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
+	<script>
+		document.addEventListener("DOMContentLoaded", () => {
+			document.getElementById("loader-page").style.opacity = 1;
+			setTimeout(() => {
+				document.getElementById("loader-page").style.opacity = 0;
+			}, 2500);
+		});
+	</script>
+	<script type="module" src="/src/main.jsx"></script>
+</body>
+
+</html>
