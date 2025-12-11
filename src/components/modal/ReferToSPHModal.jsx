@@ -331,7 +331,7 @@ const ReferToSPHModal = (props, ref) => {
 		formData.append("heart_rate", data?.heart_rate || " ");
 		formData.append("regular_rhythm", data?.regular_rhythm || " ");
 
-		Axios.post(`/v1/opd-standalone/refer-to-sph`, formData)
+		Axios.post(`/v1/diagnostic/refer-to-sph`, formData)
 		.then((res) => {
 			toast.success("Patient successfully referred to SPH!");
 			hide();

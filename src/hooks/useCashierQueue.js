@@ -7,11 +7,11 @@ const useCashierQueue = () => {
 		// error,
 		mutate: mutatePending,
 	} = useSWR(
-		"/v1/opd-standalone/pending-cashier",
+		"/v1/diagnostic/pending-cashier",
 		() =>
-			Axios.get("/v1/opd-standalone/pending-cashier")
+			Axios.get("/v1/diagnostic/pending-cashier")
 				.then((res) => {
-					console.log("res.data opd-standalone/pending-cashier", res.data);
+					console.log("res.data diagnostic/pending-cashier", res.data);
 					return res.data;
 				})
 				.catch((error) => {
@@ -29,9 +29,9 @@ const useCashierQueue = () => {
 		// error,
 		mutate: mutateDischarge,
 	} = useSWR(
-		"/v1/opd-standalone/discharge-patient",
+		"/v1/diagnostic/discharge-patient",
 		() =>
-			Axios.get("/v1/opd-standalone/discharge-patient")
+			Axios.get("/v1/diagnostic/discharge-patient")
 				.then((res) => {
 					console.log("res.data opd-standalone/discharge-patient", res.data);
 					return res.data;

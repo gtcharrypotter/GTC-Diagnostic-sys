@@ -163,7 +163,7 @@ const PatientServices = (props) => {
 			formData.append("sig[]", data?.notes || " ");
 		});
 		// return;
-		Axios.post(`/v1/opd-standalone/prescribe/${appointment?.id}`, formData)
+		Axios.post(`/v1/diagnostic/prescribe/${appointment?.id}`, formData)
 			.then((response) => {
 				let data = response.data;
 				// addToList(data);

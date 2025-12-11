@@ -79,7 +79,7 @@ const { appointment, patient } = props;
         appointment_id: currentAppointment?.id,
         patient_id: currentAppointment?.patient?.id,
       };
-      const response = await Axios.post(`/v1/opd-standalone/philhealth/hsa-xml/${currentAppointment?.id}`, payload);
+      const response = await Axios.post(`/v1/diagnostic/philhealth/hsa-xml/${currentAppointment?.id}`, payload);
       setSubmissionStatus('success');
       alert(response.data.message || 'XML Submit successfully!');
     } catch (error) {

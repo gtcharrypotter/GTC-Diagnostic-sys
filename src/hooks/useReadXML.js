@@ -10,7 +10,7 @@ const useReadXML = () => {
 	} = useSWR(
 		"/v1/",
 		() =>
-			Axios.get("/v1/opd-standalone/philhealth/read-xml")
+			Axios.get("/v1/diagnostic/philhealth/read-xml")
 				.then((res) => {
 					console.log("res.data opd-standalone/philhealth/read-xml", res.data);
 					return res.data;

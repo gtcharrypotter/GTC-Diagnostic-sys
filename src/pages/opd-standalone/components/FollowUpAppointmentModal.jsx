@@ -463,7 +463,7 @@ const FollowUpAppointmentModal = (props, ref) => {
 			formData.append("tiredness", data?.tiredness);
 			formData.append("_method", "PATCH");
 		}
-		Axios.post(`/v1/opd-standalone/follow-up`, formData1, config)
+		Axios.post(`/v1/diagnostic/follow-up`, formData1, config)
 			.then((res) => {
 				if (selected == "tuberculosis") {
 					Axios.post(

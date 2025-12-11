@@ -37,7 +37,7 @@ const PhilhealthData = () => {
 
     try {
       setLoading(true);
-      const response = await Axios.get("/v1/opd-standalone/extract-members", {
+      const response = await Axios.get("/v1/diagnostic/extract-members", {
         params: { 
           startDate: toMMDDYYYY(startDate), 
           endDate: toMMDDYYYY(endDate), 
@@ -68,7 +68,7 @@ const PhilhealthData = () => {
   // Download XML
   const downloadXML = async () => {
     try {
-      const response = await Axios.get("/v1/opd-standalone/download-members", {
+      const response = await Axios.get("/v1/diagnostic/download-members", {
         params: { startDate, endDate },
         responseType: "blob",
       });

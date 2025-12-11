@@ -97,7 +97,7 @@ const NewConsultationModal = (props, ref) => {
 		setLoading(true);
 		setValidationMessage("");
 
-		Axios.post(`/v1/opd-standalone/validate-atc`, { atc: data })
+		Axios.post(`/v1/diagnostic/validate-atc`, { atc: data })
         .then((response) => {
             setValidationMessage("Validation Result: YES");
         })
@@ -287,7 +287,7 @@ const NewConsultationModal = (props, ref) => {
 			formData.append("tiredness", data?.tiredness);
 			formData.append("_method", "PATCH");
 		}
-		Axios.post(`/v1/opd-standalone/second-tranch`, formData1, config)
+		Axios.post(`/v1/diagnostic/second-tranch`, formData1, config)
 			.then((res) => {
 				if (selected == "tuberculosis") {
 					Axios.post(

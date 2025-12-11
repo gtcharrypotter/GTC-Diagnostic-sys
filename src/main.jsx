@@ -19,10 +19,7 @@ import MyAccount from "./pages/my-account/MyAccount.jsx";
 import "tippy.js/dist/tippy.css"; // optional
 import Root from "./Root.jsx";
 import AppRoutes from "./AppRoutes.jsx";
-import RHULists from "./pages/rhu-lists/RHULists.jsx";
 import DoctorSpecialties from "./pages/doctor-specialties/DoctorSpecialties.jsx";
-import RHUPersonnels from "./pages/rhu-personnels/RHUPersonnels.jsx";
-import RHURooms from "./pages/rhu-rooms/RHURooms.jsx";
 import LaboratoryTests from "./pages/laboratory-tests/LaboratoryTests.jsx";
 import DoctorPatientQueue from "./pages/doctor-patient-queue/DoctorPatientQueue.jsx";
 import PatientLabQueue from "./pages/patient-lab-queue/PatientLabQueue.jsx";
@@ -39,9 +36,6 @@ import ConsultationRoomPreBuild from "./pages/telemedicine/ConsultationRoomPreBu
 import Appointments from "./pages/appointments/Appointments.jsx";
 import PatientImgReport from "./pages/patients/PatientImgReport.jsx";
 import DashboardCensus from "./pages/DashboardCensus.jsx";
-import Census from "./pages/Census.jsx";
-import EClaimsUploader from "./components/cashier-billing/component/eClaims/EClaimsUploader.jsx";
-import KonsultaLogin from "./pages/auth/KonsultaLogin.jsx";
 import KonsultaDecryptData from "./pages/eclaims/KonsultaDecryptData.jsx";
 import HSATransmittal from "./pages/eclaims/HSATransmittal.jsx";
 import ConsultationTransmittal from "./pages/eclaims/ConsultationTransmittal.jsx";
@@ -116,7 +110,7 @@ const router = createBrowserRouter(
 			<Route path="index" element={<AppRoutes />}></Route>
 			<Route path="login" element={<Login />}></Route>
 
-			<Route path="gce-doctor">
+			<Route path="gdis-doctor">
 				<Route path="" element={<DashboardCensus />}></Route>
 				<Route path="telemedicine" element={<Appointments />}></Route>
 				<Route
@@ -130,7 +124,7 @@ const router = createBrowserRouter(
 				<Route path="pathology-queue" element={<PathologyQueue />}></Route>
 				<Route path="radiology-queue" element={<RadiologyQueue />}></Route>
 			</Route>
-			<Route path="gce-laboratory">
+			<Route path="gdis-laboratory">
 				<Route path="" element={<DashboardCensus />}></Route>
 				<Route path="patients-lab-report" element={<PatientLabReport />}></Route>
 				<Route
@@ -139,7 +133,7 @@ const router = createBrowserRouter(
 				></Route>
 				<Route path="my-account" element={<MyAccount />}></Route>
 			</Route>
-			<Route path="gce-imaging">
+			<Route path="gdis-imaging">
 				<Route path="" element={<DashboardCensus />}></Route>
 				<Route path="patients-img-report" element={<PatientImgReport />}></Route>
 				<Route
@@ -152,7 +146,7 @@ const router = createBrowserRouter(
 				></Route> */}
 				<Route path="my-account" element={<MyAccount />}></Route>
 			</Route>
-			<Route path="gce-pharmacy">
+			<Route path="gdis-pharmacy">
 				<Route path="" element={<DashboardCensus />}></Route>
 				{/* <Route path="patients" element={<Patients />}></Route> */}
 				<Route path="consignments" element={<Consignments />}></Route>
@@ -165,7 +159,7 @@ const router = createBrowserRouter(
 				></Route>
 				<Route path="my-account" element={<MyAccount />}></Route>
 			</Route>
-			<Route path="gce-nurse">
+			<Route path="gdis-nurse">
 				<Route path="" element={<DashboardCensus />}></Route>
 				<Route path="patients" element={<Patients />}></Route>
 				<Route path="patient-queue" element={<OPDPatientQueue />}></Route>
@@ -173,7 +167,7 @@ const router = createBrowserRouter(
 				<Route path="masterlist" element={<PhilhealthData />}></Route>
 				<Route path="my-account" element={<MyAccount />}></Route>
 			</Route>
-			<Route path="gce-cashier">
+			<Route path="gdis-cashier">
 				<Route path="" element={<DashboardCensus />}></Route>
 				<Route path="patients" element={<Patients />}></Route>
 				<Route
@@ -184,7 +178,7 @@ const router = createBrowserRouter(
 				
 				<Route path="my-account" element={<MyAccount />}></Route>
 			</Route>
-			<Route path="gce-admin">
+			<Route path="gdis-admin">
 				<Route path="" element={<DashboardCensus />}></Route>
 				{/* <Route path="rhu-list" element={<RHULists />}></Route> */}
 				<Route path="patients" element={<Patients />}></Route>

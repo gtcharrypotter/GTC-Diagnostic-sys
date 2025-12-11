@@ -51,7 +51,7 @@ const ReferToHISModal = (props, ref) => {
 		formData.append("appointment_id", appointment?.id);
 		
 		formData.append("_method", "PATCH");
-		Axios.post(`/v1/opd-standalone/er-refer-to-his/${appointment?.id}`, formData)
+		Axios.post(`/v1/diagnostic/er-refer-to-his/${appointment?.id}`, formData)
 			.then((res) => {
 				// addToList(data);
 				setTimeout(() => {

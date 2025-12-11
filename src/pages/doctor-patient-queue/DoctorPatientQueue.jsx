@@ -43,7 +43,7 @@ const DoctorPatientQueue = () => {
 	});
 	const isDoctor = () => {
 		// return user?.type == "his-doctor" || user?.type == "HIS-DOCTOR" || user?.type == "sph-doctor" || user?.type == "SPH-DOCTOR" || user?.type == "rhu-doctor" || user?.type == "RHU-DOCTOR"; 
-		return user?.type == "gce-doctor" || user?.type == "GCE-DOCTOR" ; 
+		return user?.type == "gdis-doctor" || user?.type == "GDIS-DOCTOR" ; 
 	};
 
 	const listPending = () => {

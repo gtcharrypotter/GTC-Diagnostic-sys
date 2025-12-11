@@ -18,7 +18,7 @@ const PatientReferredList = () => {
 		data,
 		setFilters,
 	} = useDataTable({
-		url: `/v1/opd-standalone/patient-referred`,
+		url: `/v1/diagnostic/patient-referred`,
         // url: `/v1/patient`,
 	});
     const [searchInput, setSearchInput] = useState("");

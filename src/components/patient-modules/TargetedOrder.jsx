@@ -84,7 +84,7 @@ const TargetedOrder = (props) => {
 				<ContentTitle
 					title="Targeted Service"
 				>
-					{user?.type == "GCE-NURSE" && allowCreate  ? (
+					{user?.type == "GDIS-NURSE" && allowCreate  ? (
 						<ActionBtn
 							className="px-4 rounded-xl"
 							size="sm"

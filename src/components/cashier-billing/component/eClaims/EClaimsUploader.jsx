@@ -34,7 +34,7 @@ const EClaimsUploader = () => {
 
     try {
       // Assuming you'd upload the file to a backend here
-       const response = await Axios.post(`/v1/opd-standalone/philhealth/upload-eclaims`);  
+       const response = await Axios.post(`/v1/diagnostic/philhealth/upload-eclaims`);  
        const { eClaimsURL } = response.data;
 
       // After successful upload, generate RTN and TCN

@@ -27,7 +27,7 @@ const PatientReleaseService = (props) => {
 			formData.append("details[]", "medicine released");
 		});
 		Axios.post(
-			`/v1/opd-standalone/released-medicine/${appointment?.id}`,
+			`/v1/diagnostic/released-medicine/${appointment?.id}`,
 			formData
 		)
 			.then((res) => {
@@ -43,7 +43,7 @@ const PatientReleaseService = (props) => {
 		formData.append("_method", "PATCH");
 		formData.append("satisfaction", satisfaction);
 		Axios.post(
-			`/v1/opd-standalone/satisfaction-rate/${appointment?.id}`,
+			`/v1/diagnostic/satisfaction-rate/${appointment?.id}`,
 			formData
 		)
 			.then((res) => {
@@ -70,7 +70,7 @@ const PatientReleaseService = (props) => {
 		formData.append("_method", "PATCH");
 		formData.append("selfie", file);
 		Axios.post(
-			`/v1/opd-standalone/selfie/${appointment?.id}`,
+			`/v1/diagnostic/selfie/${appointment?.id}`,
 			formData,
 			config
 		).then((res) => {

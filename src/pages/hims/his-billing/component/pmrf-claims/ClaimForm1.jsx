@@ -135,7 +135,7 @@ const ClaimForm1 = ({patient, appointment}) => {
 //       };
 
 //       // Send data to the backend for XML generation and saving
-//       const response = await Axios.post(`/v1/opd-standalone/philhealth/save-xml`, payload);
+//       const response = await Axios.post(`/v1/diagnostic/philhealth/save-xml`, payload);
 
 //       // Extract the file URL from the response
 // 		const { fileUrl } = response.data;

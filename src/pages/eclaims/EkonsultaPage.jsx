@@ -54,7 +54,7 @@ const EkonsultaPage = (props) => {
 									className="text-3xl font-semibold text-white tracking-wider"
 									// style={{ textShadow: "1px 1px 2px black" }}
 								>
-									GTC CLINIC 
+									DIAGNOSTIC INFO SYSTEM
 								</span>
 							</div>
 						</Link>
@@ -108,7 +108,7 @@ const EkonsultaPage = (props) => {
 						</div>
 						<div className="flex flex-col items-center mt-auto justify-center pb-2">
 							<span className="italic text-white text-sm font-light">
-								GTC Clinic v.1.0
+								GTC Diagnostic v.1.0
 							</span>
 							
 						</div>

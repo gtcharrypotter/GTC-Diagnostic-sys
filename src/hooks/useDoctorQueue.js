@@ -7,9 +7,9 @@ const useDoctorQueue = () => {
 		// error,
 		mutate: mutatePending,
 	} = useSWR(
-		"/v1/opd-standalone/doctor-pending-for-consultation",
+		"/v1/diagnostic/doctor-pending-for-consultation",
 		() =>
-			Axios.get("/v1/opd-standalone/doctor-pending-for-consultation")
+			Axios.get("/v1/diagnostic/doctor-pending-for-consultation")
 				.then((res) => {
 					console.log("res.data opd-standalone/doctor-pending-for-consultation", res.data);
 					return res.data;
@@ -30,9 +30,9 @@ const useDoctorQueue = () => {
 		// error,
 		mutate: mutatePendingForResultReading,
 	} = useSWR(
-		"/v1/opd-standalone/doctor-for-result-reading",
+		"/v1/diagnostic/doctor-for-result-reading",
 		() =>
-			Axios.get("/v1/opd-standalone/doctor-for-result-reading")
+			Axios.get("/v1/diagnostic/doctor-for-result-reading")
 				.then((res) => {
 					// console.log("res.data clinic/rhu-patient-queue", res.data);
 					return res.data;
@@ -52,9 +52,9 @@ const useDoctorQueue = () => {
 		// error,
 		mutate: mutatePendingForFinalResult,
 	} = useSWR(
-		"/v1/opd-standalone/doctor-for-final-result",
+		"/v1/diagnostic/doctor-for-final-result",
 		() =>
-			Axios.get("/v1/opd-standalone/doctor-for-final-result")
+			Axios.get("/v1/diagnostic/doctor-for-final-result")
 				.then((res) => {
 					// console.log("res.data clinic/rhu-patient-queue", res.data);
 					return res.data;
@@ -75,9 +75,9 @@ const useDoctorQueue = () => {
 		// error,
 		mutate: mutateNowServing,
 	} = useSWR(
-		"/v1/opd-standalone/doctor-in-service-consultation",
+		"/v1/diagnostic/doctor-in-service-consultation",
 		() =>
-			Axios.get("/v1/opd-standalone/doctor-in-service-consultation")
+			Axios.get("/v1/diagnostic/doctor-in-service-consultation")
 				.then((res) => {
 					return res.data;
 				})

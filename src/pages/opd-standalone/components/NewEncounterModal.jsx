@@ -307,7 +307,7 @@ const NewEncounterModal = (props, ref) => {
             setLoading(true);
             setValidationMessage("");
     
-             Axios.post(`/v1/opd-standalone/validate-atc`, { atc: data })
+             Axios.post(`/v1/diagnostic/validate-atc`, { atc: data })
             .then((response) => {
                 setValidationMessage("Validation Result: YES");
             })
@@ -707,7 +707,7 @@ const NewEncounterModal = (props, ref) => {
                 // onUploadProgress: progressEvent => onProgress(progressEvent),
             };
             formData1.append("_method", "PATCH");
-            Axios.post(`/v1/opd-standalone/first-tranch/${modalData?.patient?.id}`, formData1, config)
+            Axios.post(`/v1/diagnostic/first-tranch/${modalData?.patient?.id}`, formData1, config)
                 .then((res) => {
                     toast.success("Health Screening & Assessment Successfully Created!");
                     hide();

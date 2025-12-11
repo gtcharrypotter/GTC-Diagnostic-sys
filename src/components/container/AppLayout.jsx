@@ -50,19 +50,19 @@ const AppLayout = (props) => {
 	});
 	const renderLinks = () => {
 		switch (String(user?.type).toLowerCase()) {
-			case "gce-admin":
+			case "gdis-admin":
 				return <CISAdminLinks isActive={isActive} />;
-			case "gce-nurse":
+			case "gdis-nurse":
 				return <CISNurseLinks isActive={isActive} />;
-			case "gce-doctor":
+			case "gdis-doctor":
 				return <CISDoctorLinks isActive={isActive} />;
-			case "gce-laboratory":
+			case "gdis-laboratory":
 				return <CISLaboratoryLinks isActive={isActive} />;
-			case "gce-imaging":
+			case "gdis-imaging":
 				return <CISImagingLinks isActive={isActive} />;
-			case "gce-pharmacy":
+			case "gdis-pharmacy":
 				return <CISPharmacyLinks isActive={isActive} />;
-			case "gce-cashier":
+			case "gdis-cashier":
 				return <CISCashierLinks isActive={isActive} />;
 			case "eKonsulta":
 				return <EKonsultaLinks isActive={isActive} />;
@@ -116,7 +116,7 @@ const AppLayout = (props) => {
 									className="text-2xl font-semibold text-white tracking-wider"
 									// style={{ textShadow: "1px 1px 2px black" }}
 								>
-									CLINIC
+									DIAGNOSTIC INFO SYS
 								</span>
 							</div>
 						</Link>
@@ -182,7 +182,7 @@ const AppLayout = (props) => {
 						</div>
 						<div className="flex flex-col items-center mt-auto justify-center pb-2">
 							<span className="italic text-white text-sm font-light">
-								GTC Clinic v.1.0
+								GTC Diagnostic v.1.0
 							</span>
 							
 						</div>

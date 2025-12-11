@@ -244,7 +244,7 @@ const UpdateHealthScreeningModal = (props, ref) => {
                 setLoading(true);
                 setValidationMessage("");
         
-                 Axios.post(`/v1/opd-standalone/validate-atc`, { atc: data })
+                 Axios.post(`/v1/diagnostic/validate-atc`, { atc: data })
                 .then((response) => {
                     setValidationMessage("Validation Result: YES");
                 })
@@ -614,7 +614,7 @@ const UpdateHealthScreeningModal = (props, ref) => {
 			formData.append("_method", "PATCH");
 		}
 		formData1.append("_method", "PATCH");
-		Axios.post(`/v1/opd-standalone/update-first-tranch/${modalData?.patient?.id}`, formData1, config)
+		Axios.post(`/v1/diagnostic/update-first-tranch/${modalData?.patient?.id}`, formData1, config)
 			.then((res) => {
 				if (selected == "tuberculosis") {
 					Axios.post(

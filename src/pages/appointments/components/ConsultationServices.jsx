@@ -143,7 +143,7 @@ const ConsultationServices = (props) => {
 			const config = {
 			headers: { "Content-Type": "multipart/form-data" },
 			};
-		Axios.post(`/v1/opd-standalone/update-pertinent/${appointment.id}`, formData, config)
+		Axios.post(`/v1/diagnostic/update-pertinent/${appointment.id}`, formData, config)
             .then(() => {
                 setTimeout(() => {
                     setLoading(false);

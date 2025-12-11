@@ -45,7 +45,7 @@ const PatientBillingDischarge = (props) => {
       };
 
       // Send data to the backend for XML generation and saving
-      const response = await Axios.post(`/v1/opd-standalone/philhealth/save-encrypt-xml`, payload);
+      const response = await Axios.post(`/v1/diagnostic/philhealth/save-encrypt-xml`, payload);
 
       // Extract the file URL from the response
       const { fileUrl } = response.data;
@@ -69,7 +69,7 @@ const PatientBillingDischarge = (props) => {
       };
 
       // Send data to the backend for XML generation and saving
-      const response = await Axios.post(`/v1/opd-standalone/philhealth/eclaims-xml`, payload);
+      const response = await Axios.post(`/v1/diagnostic/philhealth/eclaims-xml`, payload);
 
       // Extract the file URL from the response
       const { fileUrl } = response.data;
@@ -92,7 +92,7 @@ const PatientBillingDischarge = (props) => {
       };
 
       // Send data to the backend for XML generation and saving
-      const response = await Axios.post(`/v1/opd-standalone/philhealth/save-decrypt-xml`, payload);
+      const response = await Axios.post(`/v1/diagnostic/philhealth/save-decrypt-xml`, payload);
 
       // Extract the file URL from the response
       const { fileUrl } = response.data;
@@ -116,7 +116,7 @@ const PatientBillingDischarge = (props) => {
       };
 
       // Send data to the backend for XML generation and saving
-      const response = await Axios.post(`/v1/opd-standalone/philhealth/esoa-xml`, payload);
+      const response = await Axios.post(`/v1/diagnostic/philhealth/esoa-xml`, payload);
 
       // Extract the file URL from the response
       const { fileUrl } = response.data;

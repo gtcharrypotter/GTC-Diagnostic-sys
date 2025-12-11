@@ -444,34 +444,34 @@ const PersonnelFormModal = (props, ref) => {
 														placeholder="Select Type"
 														options={[
 															{
-																label: "GCE Doctor",
-																value: "GCE-DOCTOR",
+																label: "GDIS Doctor",
+																value: "GDIS-DOCTOR",
 															},
 															{
-																label: "GCE Nurse",
-																value: "GCE-NURSE",
+																label: "GDIS Nurse",
+																value: "GDIS-NURSE",
 															},
 															{
-																label: "GCE Laboratory",
-																value: "GCE-LABORATORY",
+																label: "GDIS Laboratory",
+																value: "GDIS-LABORATORY",
 															},
 															{
-																label: "GCE Imaging",
-																value: "GCE-IMAGING",
+																label: "GDIS Imaging",
+																value: "GDIS-IMAGING",
 															},
 															{
-																label: "GCE Pharmacist",
-																value: "GCE-PHARMACY",
+																label: "GDIS Pharmacist",
+																value: "GDIS-PHARMACY",
 															},
 															{
-																label: "GCE Cashier",
-																value: "GCE-CASHIER",
+																label: "GDIS Cashier",
+																value: "GDIS-CASHIER",
 															},
 														]}
 													/>
 												)}
 											/>
-											{watch("type") == "GCE-DOCTOR" ? (
+											{watch("type") == "GDIS-DOCTOR" ? (
 												<Controller
 													name="specialty_id"
 													control={control}

@@ -22,7 +22,7 @@ const SatisfactoryRating = () => {
         setPaginate,
         setFilters,
     } = useDataTable({
-        url: `/v1/opd-standalone/satisfied-rating`,
+        url: `/v1/diagnostic/satisfied-rating`,
     });
     const [overallSatisfaction, setOverallSatisfaction] = useState({
         verySatisfied: 0,

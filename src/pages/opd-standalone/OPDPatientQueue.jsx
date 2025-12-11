@@ -96,7 +96,7 @@ const OPDPatientQueue = () => {
 	});
 
 	const isDoctor = () => {
-		return user?.type == "gce-doctor" || user?.type == "GCE-DOCTOR";
+		return user?.type == "gdis-doctor" || user?.type == "GDIS-DOCTOR";
 	};
 
 	const sortPendingList = (list) => {

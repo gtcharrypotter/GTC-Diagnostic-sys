@@ -46,7 +46,7 @@ const KonsultaPreparation = (props) => {
         const payload = {
         patient
       };
-        const response = await Axios.post(`/v1/opd-standalone/konsulta/validate-hsa/${patient?.id}`, {
+        const response = await Axios.post(`/v1/diagnostic/konsulta/validate-hsa/${patient?.id}`, {
             patient: patient?.id,
             payload
         });
@@ -65,7 +65,7 @@ const KonsultaPreparation = (props) => {
             appointment,
             patient
         };
-            const response = await Axios.post(`/v1/opd-standalone/konsulta/submit-hsa/${patient?.id}`, {
+            const response = await Axios.post(`/v1/diagnostic/konsulta/submit-hsa/${patient?.id}`, {
                 patient: patient?.id,
                 payload
             });
@@ -83,7 +83,7 @@ const KonsultaPreparation = (props) => {
         appointment,
         patient
       };
-        const response = await Axios.post(`/v1/opd-standalone/konsulta/validate-consult/${appointment?.id}`, {
+        const response = await Axios.post(`/v1/diagnostic/konsulta/validate-consult/${appointment?.id}`, {
             appointment_id: appointment?.id,
             payload
         });
@@ -101,7 +101,7 @@ const KonsultaPreparation = (props) => {
             appointment,
             patient
         };
-            const response = await Axios.post(`/v1/opd-standalone/konsulta/submit-consult/${appointment?.id}`, {
+            const response = await Axios.post(`/v1/diagnostic/konsulta/submit-consult/${appointment?.id}`, {
                 appointment_id: appointment?.id,
                 payload
             });

@@ -7,9 +7,9 @@ const usePharmaQueue = () => {
 		// error,
 		mutate: mutatePending,
 	} = useSWR(
-		"/v1/opd-standalone/pharmacy-pending-signal-for-release",
+		"/v1/diagnostic/pharmacy-pending-signal-for-release",
 		() =>
-			Axios.get("/v1/opd-standalone/pharmacy-pending-signal-for-release")
+			Axios.get("/v1/diagnostic/pharmacy-pending-signal-for-release")
 				.then((res) => {
 					return res.data;
 				})
@@ -28,9 +28,9 @@ const usePharmaQueue = () => {
 		// error,
 		mutate: mutatePendingMedsRelease,
 	} = useSWR(
-		"/v1/opd-standalone/pharmacy-pending-medicine-release",
+		"/v1/diagnostic/pharmacy-pending-medicine-release",
 		() =>
-			Axios.get("/v1/opd-standalone/pharmacy-pending-medicine-release")
+			Axios.get("/v1/diagnostic/pharmacy-pending-medicine-release")
 				.then((res) => {
 					return res.data;
 				})

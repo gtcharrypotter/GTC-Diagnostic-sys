@@ -6,9 +6,9 @@ const useOPDQueue = () => {
     const {
 		data: pending,
 	} = useSWR(
-		"/v1/opd-standalone/opd-patient-queue",
+		"/v1/diagnostic/patient-queue",
 		() =>
-			Axios.get("/v1/opd-standalone/opd-patient-queue")
+			Axios.get("/v1/diagnostic/patient-queue")
 				.then((res) => {
 					return res.data;
 				})
@@ -25,5 +25,4 @@ const useOPDQueue = () => {
 		pending,
 	};
 }
-
 export default useOPDQueue

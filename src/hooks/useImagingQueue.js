@@ -73,9 +73,9 @@ const useImagingQueue = () => {
         data: pendingPrintImgResult,
         mutate: mutatePendingPrintImgResult,
     } = useSWR(
-        "/v1/opd-standalone/print-img-result?status=for-result-reading",
+        "/v1/diagnostic/print-img-result?status=for-result-reading",
         () =>
-            Axios.get("/v1/opd-standalone/print-img-result")
+            Axios.get("/v1/diagnostic/print-img-result")
                 .then((res) => res.data)
                 .catch((error) => {
                     if (error.response.status !== 409) throw error;

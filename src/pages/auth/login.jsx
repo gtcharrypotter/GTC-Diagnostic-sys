@@ -58,7 +58,7 @@ const Login = () => {
 					className="w-[144px] mb-2"
 				/>
 				<h5 className="text-primary-darker font-bold uppercase mb-5 ">
-					CLINIC LOGIN
+					DIAGNOSTIC LOGIN
 				</h5>
 				<form className="w-full" onSubmit={handleSubmit(submit)}>
 					<TextInputField

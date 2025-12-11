@@ -42,7 +42,7 @@ const MunicipalityCensus = ({ municipalityId }) => {
     }));
        // Fetch total population when municipalityId changes
    useEffect(() => {
-        Axios.get(`/v1/opd-standalone/municipalities/${municipalityId}/population`)
+        Axios.get(`/v1/diagnostic/municipalities/${municipalityId}/population`)
             .then(res => {
                 setTotalPopulation(res.data.total_population);
             })

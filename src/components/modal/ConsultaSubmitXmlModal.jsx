@@ -45,7 +45,7 @@ const ConsultaSubmitXmlModal = (props, ref) => {
         appointment,
         currentAppointment,
       };
-      const response = await Axios.post(`/v1/opd-standalone/philhealth/consultation-xml/${currentAppointment?.id}`, payload);
+      const response = await Axios.post(`/v1/diagnostic/philhealth/consultation-xml/${currentAppointment?.id}`, payload);
       setSubmissionStatus('success');
       alert(response.data.message || 'XML Submit successfully!');
     } catch (error) {

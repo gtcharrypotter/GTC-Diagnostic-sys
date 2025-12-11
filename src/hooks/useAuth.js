@@ -207,7 +207,7 @@ export const useAuth = ({ middleware, redirectIfAuthenticated } = {}) => {
 					// ...
 
 					console.log("here", users);
-					let docs = users.filter((x) => x.type == "GCE-DOCTOR");
+					let docs = users.filter((x) => x.type == "GDIS-DOCTOR");
 					//insert into localstorage
 
 					setStorage("doctors", docs);
@@ -215,7 +215,7 @@ export const useAuth = ({ middleware, redirectIfAuthenticated } = {}) => {
 				.joining((user) => {
 					console.log("doctor join user.type", user.type);
 					//add to doctor when user type is RHU-DOCTOR and remove if id already exist in the list and add again
-					if (user.type == "GCE-DOCTOR") {
+					if (user.type == "GDIS-DOCTOR") {
 						//insert into localstorage
 
 						const doctors = getStorage("doctors");
@@ -232,7 +232,7 @@ export const useAuth = ({ middleware, redirectIfAuthenticated } = {}) => {
 				.leaving((user) => {
 					console.log("doctor leaving ", user.name);
 					//remove doctor when user type is RHU-DOCTOR
-					if (user.type == "GCE-DOCTOR") {
+					if (user.type == "GDIS-DOCTOR") {
 						const doctors = getStorage("doctors");
 						if (doctors) {
 							let doc = doctors.filter((x) => x.id != user.id);

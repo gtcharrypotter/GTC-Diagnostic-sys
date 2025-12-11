@@ -52,7 +52,7 @@ const PhilhealthServerModal = (props, ref) => {
     setServerStatus('unknown'); // Reset status initially
 
     try {
-        const response = await Axios.post('/v1/opd-standalone/check-server-status', { url: testUrl });
+        const response = await Axios.post('/v1/diagnostic/check-server-status', { url: testUrl });
         const { status } = response.data;
 
         setServerStatus(status); // Set status based on backend response

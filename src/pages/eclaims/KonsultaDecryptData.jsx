@@ -54,7 +54,7 @@ const KonsultaDecryptData = () => {
 	const checkUploadStatus = async (data) => {
 		try {
 			const response = await Axios.post(
-					`/v1/opd-standalone/philhealth/check-upload-status}`,
+					`/v1/diagnostic/philhealth/check-upload-status}`,
 					{
 			transmittal_id: data.hsa_transaction_no, // Assuming `data` has `transmittalId`
 					}

@@ -94,10 +94,6 @@ const NewPatientFormModal = (props, ref) => {
 		lat: 6.160789891245747,
 		lng: 125.29877677135225,
 	});
-	const [region, setRegion] = useState('Region XII');
-	const [province, setProvince] = useState('Sarangani');
-	const [municipality, setMunicipality] = useState('Alabel');
-	const [barangay, setBarangay] = useState('Alegria');
 
 	const [members, setMembers] = useState([{
 		id: uuidv4(),
@@ -399,6 +395,14 @@ useEffect(() => {
 				console.log(err);
 				setLoading(false);
 				// return reject(err);
+				 if (err?.response?.status === 409) {
+            toast.error("Duplicate Entry!");
+            return;
+			}
+
+			// ❗ Other errors
+			console.log(err);
+			toast.error("Something went wrong. Please try again.");
 			});
 	};
 	console.log("Users Data", user)

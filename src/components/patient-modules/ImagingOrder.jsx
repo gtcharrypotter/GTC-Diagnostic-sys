@@ -201,10 +201,10 @@ const ImagingOrder = (props) => {
 	const { user } = useAuth();
 
 	const isLaboratoryUser = () => {
-		return user?.type == "GCE-IMAGING" || user?.type == "GCE-LABORATORY";
+		return user?.type == "GDIS-IMAGING" || user?.type == "GDIS-LABORATORY";
 	};
 	const isXrayUser = () => {
-		return user?.type === "GCE-IMAGING";
+		return user?.type === "GDIS-IMAGING";
 	};
 	// const testHeader = isXrayUser() ? "Imaging Test" : "Laboratory Test";
 	const {
@@ -622,7 +622,7 @@ const ImagingOrder = (props) => {
 							: "Laboratory Order Request"
 					}
 				>
-					{user?.type == "GCE-DOCTOR" && allowCreate ? (
+					{user?.type == "GDIS-DOCTOR" && allowCreate ? (
 						<ActionBtn
 							className="px-4 rounded-xl"
 							size="sm"

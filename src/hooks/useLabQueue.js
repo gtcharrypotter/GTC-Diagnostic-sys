@@ -73,9 +73,9 @@ const useLabQueue = () => {
 		// error,
 		mutate: mutatePendingForPrintResult,
 	} = useSWR(
-		"/v1/opd-standalone/print-lab-result?status=for-result-reading",
+		"/v1/diagnostic/print-lab-result?status=for-result-reading",
 		() =>
-			Axios.get("/v1/opd-standalone/print-lab-result")
+			Axios.get("/v1/diagnostic/print-lab-result")
 				.then((res) => {
 					// console.log("res.data clinic/rhu-patient-queue", res.data);
 					return res.data;

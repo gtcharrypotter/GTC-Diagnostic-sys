@@ -52,7 +52,7 @@ const KonsultaLogin = (props, ref) => {
         const submit = async (data) => {
             setLoading(true);
             try {
-                const response = await Axios.post('/v1/opd-standalone/konsulta-login', data, {
+                const response = await Axios.post('/v1/diagnostic/konsulta-login', data, {
                     headers: {
                         'Content-Type': 'application/json',
                     },
@@ -64,9 +64,9 @@ const KonsultaLogin = (props, ref) => {
                     console.log('Success:', result);
                     toast.success('Login successful!');
                     // Redirect to the decrypted data page with necessary data
-                     if (user?.type === 'GCE-ADMIN') {
+                     if (user?.type === 'GDIS-ADMIN') {
                             navigate('/ekonsulta-admin');
-                        } else if (user?.type === 'GCE-CASHIER') {
+                        } else if (user?.type === 'GDIS-CASHIER') {
                             navigate('/ekonsulta-cashier');
                         }else {
                 // Default navigation if type is neither NURSE nor CASHIER

@@ -233,7 +233,7 @@ const AppointmentData = ({ mutateAll, appointment = null, patient = null}) => {
 		});
 		
 		// return;
-		Axios.post(`/v1/opd-standalone/prescribe/${appointment?.id}`, formData)
+		Axios.post(`/v1/diagnostic/prescribe/${appointment?.id}`, formData)
 			.then((response) => {
 				let data = response.data;
 				// addToList(data);
@@ -392,7 +392,7 @@ const AppointmentData = ({ mutateAll, appointment = null, patient = null}) => {
 
 			formData.append("_method", "PATCH");
 		
-			Axios.post(`/v1/opd-standalone/no-prescribe/${appointment?.id}`, formData)
+			Axios.post(`/v1/diagnostic/no-prescribe/${appointment?.id}`, formData)
 				.then((response) => {
 					let data = response.data;
 					// addToList(data);
@@ -418,7 +418,7 @@ const AppointmentData = ({ mutateAll, appointment = null, patient = null}) => {
 					showService
 					serviceComponent={
 						<>
-							{(appointment?.status == "in-service-result-reading" &&
+							{(appointment?.status == "in-service-final-result" &&
 								// "pending-for-pharmacy-release" &&
 								appointment?.prescribed_by == null) ||
 							appointment?.has_for_reading?.length > 0 ? (

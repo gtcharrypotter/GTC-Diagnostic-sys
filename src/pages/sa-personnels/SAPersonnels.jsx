@@ -45,12 +45,12 @@ const SAPersonnels = (props) => {
 		url: `v1/health-unit-personnels/list`,
 		defaultFilters: {
 			type: [
-				"GCE-DOCTOR",
-				"GCE-NURSE",
-				"GCE-PHARMACY",
-				"GCE-CASHIER",
-				"GCE-LABORATORY",
-				"GCE-IMAGING",
+				"GDIS-DOCTOR",
+				"GDIS-NURSE",
+				"GDIS-PHARMACY",
+				"GDIS-CASHIER",
+				"GDIS-LABORATORY",
+				"GDIS-IMAGING",
 			],
 			key: uniq_id,
 		},
